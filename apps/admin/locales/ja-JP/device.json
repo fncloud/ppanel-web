@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "仮想マシンをブロック",
+  "blockVirtualMachineDescription": "有効にすると、デバイスは仮想マシンやエミュレーター上での実行が禁止されます",
+  "communicationKey": "通信キー",
+  "communicationKeyDescription": "通信キーは、デバイスとサーバー間の安全な通信に使用されます",
+  "enable": "有効化",
+  "enableDescription": "有効化後、ログインおよび登録のために、IMEI/IDFA/IDFV/AndroidID/Macアドレスなどの複数のデバイス識別子がサポートされます。",
+  "enableSecurity": "通信暗号化を有効にする",
+  "enableSecurityDescription": "有効にすると、デバイスとサーバー間の通信が暗号化されます",
+  "saveFailed": "保存に失敗しました",
+  "saveSuccess": "保存に成功しました",
+  "showAds": "広告を表示",
+  "showAdsDescription": "有効にすると、デバイスに広告が表示されます"
+}

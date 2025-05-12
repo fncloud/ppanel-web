@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Bloquear Máquina Virtual",
+  "blockVirtualMachineDescription": "Cuando está habilitado, se evitará que los dispositivos se ejecuten en máquinas virtuales o emuladores",
+  "communicationKey": "Clave de Comunicación",
+  "communicationKeyDescription": "La clave de comunicación se utiliza para la comunicación segura entre dispositivos y servidores",
+  "enable": "Habilitar",
+  "enableDescription": "Después de habilitar, se admiten múltiples identificadores de dispositivos como IMEI/IDFA/IDFV/AndroidID/dirección Mac para iniciar sesión y registrarse",
+  "enableSecurity": "Habilitar Cifrado de Comunicación",
+  "enableSecurityDescription": "Cuando está habilitado, la comunicación entre dispositivos y servidores será cifrada",
+  "saveFailed": "Error al guardar",
+  "saveSuccess": "Guardado exitoso",
+  "showAds": "Mostrar Anuncios",
+  "showAdsDescription": "Cuando está habilitado, se mostrarán anuncios en los dispositivos"
+}

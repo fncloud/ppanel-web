@@ -1,0 +1,10 @@
+{
+  "clientId": "Asiakas ID",
+  "clientIdDescription": "Google OAuth 2.0 -asiakastunnus Google Cloud Consolesta",
+  "clientSecret": "Asiakassalasana",
+  "clientSecretDescription": "Google OAuth 2.0 -asiakassalasana Google Cloud Consolesta",
+  "enable": "Ota käyttöön",
+  "enableDescription": "Kun otat tämän käyttöön, käyttäjät voivat kirjautua sisään Google-tilillään",
+  "saveFailed": "Tallennus epäonnistui",
+  "saveSuccess": "Tallennus onnistui"
+}

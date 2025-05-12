@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "액세스 키",
+    "accessKeyDescription": "https://exchangerate.host에서 무료로 제공하는 환율 API 키",
+    "currencySymbol": "통화 기호",
+    "currencySymbolDescription": "표시용으로만 사용되며, 변경 시 시스템 내 모든 통화 단위가 변경됩니다",
+    "currencyUnit": "통화 단위",
+    "currencyUnitDescription": "표시용으로만 사용되며, 변경 시 시스템 내 모든 통화 단위가 변경됩니다",
+    "saveSuccess": "저장 성공"
+  },
+  "privacy-policy": {
+    "saveSuccess": "저장 성공",
+    "title": "개인정보 처리방침"
+  },
+  "site": {
+    "customData": "사용자 정의 데이터",
+    "customDataDescription": "사이트의 사용자 정의 데이터에 사용되는 사용자 정의 데이터",
+    "customHtml": "사용자 정의 HTML",
+    "customHtmlDescription": "사이트의 body그 하단에 삽입될 사용자 정의 HTML 코드입니다.",
+    "keywords": "키워드",
+    "keywordsDescription": "SEO 목적으로 사용됨",
+    "logo": "LOGO",
+    "logoDescription": "LOGO를 표시해야 하는 위치에 사용됩니다",
+    "logoPlaceholder": "LOGO의 URL 주소를 입력하세요. '/'로 끝나지 않도록 하세요",
+    "saveSuccess": "저장 성공",
+    "siteDesc": "사이트 설명",
+    "siteDescDescription": "사이트 설명을 표시해야 하는 위치에 사용됩니다",
+    "siteDescPlaceholder": "사이트 설명을 입력하세요",
+    "siteDomain": "사이트 도메인",
+    "siteDomainDescription": "현재 웹사이트의 도메인 주소로, 예를 들어 이메일에 사용됩니다",
+    "siteDomainPlaceholder": "도메인 주소를 입력하세요. 여러 도메인은 각 줄에 하나씩 입력하세요",
+    "siteName": "사이트 이름",
+    "siteNameDescription": "사이트 이름을 표시해야 하는 위치에 사용됩니다",
+    "siteNamePlaceholder": "사이트 이름을 입력하세요"
+  },
+  "tabs": {
+    "currency": "통화",
+    "site": "사이트",
+    "tos": "서비스 약관"
+  },
+  "tos": {
+    "saveSuccess": "저장 성공",
+    "title": "서비스 약관"
+  }
+}

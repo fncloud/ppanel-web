@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Bot",
+  "clientIdDescription": "ID-ul Botului Telegram, pe care îl poți obține de la @BotFather",
+  "clientSecret": "Token Bot",
+  "clientSecretDescription": "Tokenul Bot Telegram, îl puteți obține de la @BotFather",
+  "enable": "Activează",
+  "enableDescription": "După activare, funcțiile de înregistrare, autentificare, asociere și disociere a telefonului mobil vor fi activate",
+  "saveFailed": "Salvarea a eșuat",
+  "saveSuccess": "Salvare reușită"
+}

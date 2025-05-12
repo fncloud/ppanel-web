@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Khóa truy cập",
+    "accessKeyDescription": "https://exchangerate.host cung cấp miễn phí khóa API tỷ giá hối đoái",
+    "currencySymbol": "Ký hiệu tiền tệ",
+    "currencySymbolDescription": "Chỉ sử dụng để hiển thị, sau khi thay đổi tất cả các đơn vị tiền tệ trong hệ thống sẽ thay đổi",
+    "currencyUnit": "Đơn vị tiền tệ",
+    "currencyUnitDescription": "Chỉ sử dụng để hiển thị, sau khi thay đổi tất cả các đơn vị tiền tệ trong hệ thống sẽ thay đổi",
+    "saveSuccess": "Lưu thành công"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Lưu thành công",
+    "title": "Chính sách bảo mật"
+  },
+  "site": {
+    "customData": "Dữ liệu tùy chỉnh",
+    "customDataDescription": "Dữ liệu tùy chỉnh, được sử dụng cho dữ liệu tùy chỉnh của trang web",
+    "customHtml": "HTML tùy chỉnh",
+    "customHtmlDescription": "Mã HTML tùy chỉnh để được chèn vào cuối thẻ body của trang.",
+    "keywords": "Từ khóa",
+    "keywordsDescription": "Dùng cho mục đích SEO",
+    "logo": "LOGO",
+    "logoDescription": "Dùng để hiển thị vị trí cần hiển thị LOGO",
+    "logoPlaceholder": "Vui lòng nhập địa chỉ URL của LOGO, không kết thúc bằng '/'",
+    "saveSuccess": "Lưu thành công",
+    "siteDesc": "Mô tả trang web",
+    "siteDescDescription": "Dùng để hiển thị vị trí cần hiển thị mô tả trang web",
+    "siteDescPlaceholder": "Vui lòng nhập mô tả trang web",
+    "siteDomain": "Tên miền trang web",
+    "siteDomainDescription": "Địa chỉ tên miền của trang web hiện tại, ví dụ như dùng trong email",
+    "siteDomainPlaceholder": "Vui lòng nhập địa chỉ tên miền, mỗi dòng một tên miền",
+    "siteName": "Tên trang web",
+    "siteNameDescription": "Dùng để hiển thị vị trí cần hiển thị tên trang web",
+    "siteNamePlaceholder": "Vui lòng nhập tên trang web"
+  },
+  "tabs": {
+    "currency": "Tiền tệ",
+    "site": "Trang web",
+    "tos": "Điều khoản dịch vụ"
+  },
+  "tos": {
+    "saveSuccess": "Lưu thành công",
+    "title": "Điều khoản dịch vụ"
+  }
+}

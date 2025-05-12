@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "कुंजी",
+    "accessKeyDescription": "https://exchangerate.host द्वारा मुफ्त में प्रदान की गई विनिमय दर API कुंजी",
+    "currencySymbol": "मुद्रा प्रतीक",
+    "currencySymbolDescription": "केवल प्रदर्शन के लिए उपयोग किया जाता है, परिवर्तन के बाद सिस्टम में सभी मुद्रा इकाइयाँ बदल जाएँगी",
+    "currencyUnit": "मुद्रा इकाई",
+    "currencyUnitDescription": "केवल प्रदर्शन के लिए उपयोग किया जाता है, परिवर्तन के बाद सिस्टम में सभी मुद्रा इकाइयाँ बदल जाएँगी",
+    "saveSuccess": "सफलतापूर्वक सहेजा गया"
+  },
+  "privacy-policy": {
+    "saveSuccess": "सफलता से सहेजा गया",
+    "title": "गोपनीयता नीति"
+  },
+  "site": {
+    "customData": "कस्टम डेटा",
+    "customDataDescription": "कस्टम डेटा, साइट के कस्टम डेटा के लिए उपयोग किया जाता है",
+    "customHtml": "कस्टम HTML",
+    "customHtmlDescription": "साइट के bodyैग के नीचे इंजेक्ट करने के लिए कस्टम HTML कोड।",
+    "keywords": "कीवर्ड",
+    "keywordsDescription": "SEO उद्देश्यों के लिए उपयोग किया जाता है",
+    "logo": "लोगो",
+    "logoDescription": "लोगो प्रदर्शित करने के लिए आवश्यक स्थान",
+    "logoPlaceholder": "कृपया लोगो का URL पता दर्ज करें, '/' के साथ समाप्त न करें",
+    "saveSuccess": "सफलतापूर्वक सहेजा गया",
+    "siteDesc": "साइट विवरण",
+    "siteDescDescription": "साइट विवरण प्रदर्शित करने के लिए आवश्यक स्थान",
+    "siteDescPlaceholder": "कृपया साइट विवरण दर्ज करें",
+    "siteDomain": "साइट डोमेन",
+    "siteDomainDescription": "वर्तमान वेबसाइट का डोमेन पता, जैसे कि ईमेल में उपयोग के लिए",
+    "siteDomainPlaceholder": "कृपया डोमेन पता दर्ज करें, एक से अधिक डोमेन के लिए प्रत्येक पंक्ति में एक दर्ज करें",
+    "siteName": "साइट का नाम",
+    "siteNameDescription": "साइट का नाम प्रदर्शित करने के लिए आवश्यक स्थान",
+    "siteNamePlaceholder": "कृपया साइट का नाम दर्ज करें"
+  },
+  "tabs": {
+    "currency": "मुद्रा",
+    "site": "साइट",
+    "tos": "सेवा की शर्तें"
+  },
+  "tos": {
+    "saveSuccess": "सहेजा गया",
+    "title": "सेवा की शर्तें"
+  }
+}

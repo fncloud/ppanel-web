@@ -1,0 +1,10 @@
+{
+  "clientId": "ID client",
+  "clientIdDescription": "ID de l'application Facebook depuis la console des développeurs Facebook",
+  "clientSecret": "Secret Client",
+  "clientSecretDescription": "Secret de l'application Facebook depuis la console des développeurs Facebook",
+  "enable": "Activer",
+  "enableDescription": "Après activation, les utilisateurs peuvent se connecter avec leur compte Facebook",
+  "saveFailed": "Échec de l'enregistrement",
+  "saveSuccess": "Enregistrement réussi"
+}

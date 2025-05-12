@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub-Client-ID",
+  "clientIdDescription": "Die Client-ID aus den Einstellungen Ihrer GitHub-OAuth-Anwendung",
+  "clientSecret": "GitHub-Clientgeheimnis",
+  "clientSecretDescription": "Das Client-Geheimnis aus den Einstellungen Ihrer GitHub-OAuth-Anwendung",
+  "enable": "GitHub-Authentifizierung aktivieren",
+  "enableDescription": "Ermöglichen Sie Benutzern, sich mit ihren GitHub-Konten anzumelden",
+  "saveFailed": "Speichern der GitHub-Einstellungen fehlgeschlagen",
+  "saveSuccess": "GitHub-Einstellungen erfolgreich gespeichert"
+}

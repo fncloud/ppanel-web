@@ -1,0 +1,10 @@
+{
+  "clientId": "Bot azonosító",
+  "clientIdDescription": "Telegram Bot azonosító, amelyet a @BotFather-től szerezhetsz meg",
+  "clientSecret": "Bot Token",
+  "clientSecretDescription": "Telegram Bot Token, amelyet a @BotFather-től szerezhetsz be",
+  "enable": "Engedélyez",
+  "enableDescription": "A bekapcsolás után a mobiltelefon regisztráció, bejelentkezés, kötés és oldás funkciók elérhetővé válnak",
+  "saveFailed": "Mentés sikertelen",
+  "saveSuccess": "Sikeres mentés"
+}

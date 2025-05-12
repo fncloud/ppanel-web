@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Clé d'accès",
+    "accessKeyDescription": "Clé API de taux de change fournie gratuitement par https://exchangerate.host",
+    "currencySymbol": "Symbole monétaire",
+    "currencySymbolDescription": "Utilisé uniquement pour l'affichage, toute modification entraînera un changement de toutes les unités monétaires dans le système",
+    "currencyUnit": "Unité monétaire",
+    "currencyUnitDescription": "Utilisé uniquement pour l'affichage, toute modification entraînera un changement de toutes les unités monétaires dans le système",
+    "saveSuccess": "Enregistrement réussi"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Enregistrement réussi",
+    "title": "Politique de confidentialité"
+  },
+  "site": {
+    "customData": "Données personnalisées",
+    "customDataDescription": "Données personnalisées, utilisées pour les données personnalisées du site",
+    "customHtml": "HTML personnalisé",
+    "customHtmlDescription": "Code HTML personnalisé à injecter dans le bas de la balise body du site.",
+    "keywords": "Mots-clés",
+    "keywordsDescription": "Utilisé à des fins de référencement",
+    "logo": "LOGO",
+    "logoDescription": "Utilisé pour afficher l'emplacement où le LOGO doit être montré",
+    "logoPlaceholder": "Veuillez entrer l'URL du LOGO, ne pas terminer par '/'",
+    "saveSuccess": "Enregistrement réussi",
+    "siteDesc": "Description du site",
+    "siteDescDescription": "Utilisé pour afficher l'emplacement où la description du site doit être montrée",
+    "siteDescPlaceholder": "Veuillez entrer la description du site",
+    "siteDomain": "Domaine du site",
+    "siteDomainDescription": "L'adresse de domaine actuelle du site, par exemple pour les e-mails",
+    "siteDomainPlaceholder": "Veuillez entrer l'adresse du domaine, un domaine par ligne",
+    "siteName": "Nom du site",
+    "siteNameDescription": "Utilisé pour afficher l'emplacement où le nom du site doit être montré",
+    "siteNamePlaceholder": "Veuillez entrer le nom du site"
+  },
+  "tabs": {
+    "currency": "Devise",
+    "site": "Site",
+    "tos": "Conditions de service"
+  },
+  "tos": {
+    "saveSuccess": "Enregistrement réussi",
+    "title": "Conditions de service"
+  }
+}

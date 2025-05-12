@@ -1,0 +1,10 @@
+{
+  "clientId": "شناسه مشتری",
+  "clientIdDescription": "شناسه مشتری OAuth 2.0 گوگل از کنسول ابری گوگل",
+  "clientSecret": "راز مشتری",
+  "clientSecretDescription": "رمز مشتری OAuth 2.0 گوگل از کنسول Google Cloud",
+  "enable": "فعال کردن",
+  "enableDescription": "پس از فعال‌سازی، کاربران می‌توانند با حساب گوگل خود وارد شوند",
+  "saveFailed": "ذخیره‌سازی ناموفق بود",
+  "saveSuccess": "ذخیره با موفقیت انجام شد"
+}

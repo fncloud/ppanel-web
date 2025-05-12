@@ -1,0 +1,10 @@
+{
+  "clientId": "Müşteri Kimliği",
+  "clientIdDescription": "Facebook Geliştirici Konsolu'ndan Facebook Uygulama Kimliği",
+  "clientSecret": "İstemci Sırrı",
+  "clientSecretDescription": "Facebook Geliştirici Konsolundan Facebook Uygulama Sırrı",
+  "enable": "Etkinleştir",
+  "enableDescription": "Etkinleştirildikten sonra, kullanıcılar Facebook hesaplarıyla oturum açabilirler",
+  "saveFailed": "Kaydetme başarısız oldu",
+  "saveSuccess": "Kaydetme başarılı"
+}

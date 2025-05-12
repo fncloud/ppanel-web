@@ -1,0 +1,10 @@
+{
+  "clientId": "Bot Kimliği",
+  "clientIdDescription": "Telegram Bot Kimliği, @BotFather'dan alabilirsiniz",
+  "clientSecret": "Bot Jetonu",
+  "clientSecretDescription": "Telegram Bot Token, bunu @BotFather'dan alabilirsiniz",
+  "enable": "Etkinleştir",
+  "enableDescription": "Etkinleştirildikten sonra, cep telefonu kaydı, giriş, bağlama ve bağlantı kesme işlevleri etkinleştirilecektir",
+  "saveFailed": "Kaydetme başarısız oldu",
+  "saveSuccess": "Kaydetme başarılı"
+}

@@ -1,0 +1,10 @@
+{
+  "clientId": "Ідентифікатор клієнта",
+  "clientIdDescription": "Ідентифікатор додатка Facebook з консолі розробників Facebook",
+  "clientSecret": "Секрет клієнта",
+  "clientSecretDescription": "Секретний ключ додатку Facebook з консолі розробників Facebook",
+  "enable": "Увімкнути",
+  "enableDescription": "Після увімкнення користувачі можуть увійти за допомогою свого облікового запису Facebook",
+  "saveFailed": "Не вдалося зберегти",
+  "saveSuccess": "Збереження успішне"
+}

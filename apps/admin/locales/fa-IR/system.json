@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "کلید دسترسی",
+    "accessKeyDescription": "کلید API که به صورت رایگان توسط https://exchangerate.host ارائه می‌شود",
+    "currencySymbol": "نماد ارز",
+    "currencySymbolDescription": "فقط برای نمایش استفاده می‌شود؛ تغییر این مورد بر تمام واحدهای ارزی در سیستم تأثیر خواهد گذاشت",
+    "currencyUnit": "واحد ارز",
+    "currencyUnitDescription": "فقط برای نمایش استفاده می‌شود؛ تغییر این مورد بر تمام واحدهای ارزی در سیستم تأثیر خواهد گذاشت",
+    "saveSuccess": "ذخیره‌سازی موفقیت‌آمیز"
+  },
+  "privacy-policy": {
+    "saveSuccess": "ذخیره با موفقیت انجام شد",
+    "title": "سیاست حفظ حریم خصوصی"
+  },
+  "site": {
+    "customData": "داده‌های سفارشی",
+    "customDataDescription": "داده‌های سفارشی، استفاده شده برای داده‌های سفارشی سایت",
+    "customHtml": "HTML سفارشی",
+    "customHtmlDescription": "کد HTML سفارشی که باید در انتهای تگ body سایت وارد شود.",
+    "keywords": "کلمات کلیدی",
+    "keywordsDescription": "برای اهداف سئو استفاده می‌شود",
+    "logo": "لوگو",
+    "logoDescription": "برای نمایش لوگو در مکان‌های تعیین‌شده استفاده می‌شود",
+    "logoPlaceholder": "آدرس URL لوگو را وارد کنید، بدون '/' در انتها",
+    "saveSuccess": "ذخیره با موفقیت انجام شد",
+    "siteDesc": "توضیحات سایت",
+    "siteDescDescription": "برای نمایش توضیحات سایت در مکان‌های تعیین‌شده استفاده می‌شود",
+    "siteDescPlaceholder": "توضیحات سایت را وارد کنید",
+    "siteDomain": "دامنه سایت",
+    "siteDomainDescription": "آدرس دامنه وب‌سایت فعلی، به عنوان مثال، در ایمیل‌ها استفاده می‌شود",
+    "siteDomainPlaceholder": "لطفاً آدرس دامنه را وارد کنید. برای چندین دامنه، لطفاً هر کدام را در یک خط وارد کنید.",
+    "siteName": "نام سایت",
+    "siteNameDescription": "برای نمایش نام سایت در مکان‌های تعیین‌شده استفاده می‌شود",
+    "siteNamePlaceholder": "نام سایت را وارد کنید"
+  },
+  "tabs": {
+    "currency": "ارز",
+    "site": "سایت",
+    "tos": "شرایط خدمات"
+  },
+  "tos": {
+    "saveSuccess": "ذخیره با موفقیت انجام شد",
+    "title": "شرایط خدمات"
+  }
+}

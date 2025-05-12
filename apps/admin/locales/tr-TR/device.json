@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Sanal Makineyi Engelle",
+  "blockVirtualMachineDescription": "Etkinleştirildiğinde, cihazların sanal makinelerde veya emülatörlerde çalışması engellenecektir",
+  "communicationKey": "İletişim Anahtarı",
+  "communicationKeyDescription": "İletişim anahtarı, cihazlar ve sunucular arasında güvenli iletişim için kullanılır",
+  "enable": "Etkinleştir",
+  "enableDescription": "Etkinleştirildikten sonra, giriş ve kayıt için IMEI/IDFA/IDFV/AndroidID/Mac adresi gibi birden fazla cihaz tanımlayıcısı desteklenir.",
+  "enableSecurity": "İletişim Şifrelemesini Etkinleştir",
+  "enableSecurityDescription": "Etkinleştirildiğinde, cihazlar ve sunucular arasındaki iletişim şifrelenmiş olacaktır",
+  "saveFailed": "Kaydetme başarısız oldu",
+  "saveSuccess": "Başarıyla kaydedildi",
+  "showAds": "Reklamları Göster",
+  "showAdsDescription": "Etkinleştirildiğinde, cihazlarda reklamlar görüntülenecektir"
+}

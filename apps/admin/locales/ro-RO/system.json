@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Cheie de acces",
+    "accessKeyDescription": "https://exchangerate.host oferă gratuit o cheie API pentru ratele de schimb",
+    "currencySymbol": "Simbolul monedei",
+    "currencySymbolDescription": "Utilizat doar pentru afișare, după modificare toate unitățile monetare din sistem vor fi schimbate",
+    "currencyUnit": "Unitatea monetară",
+    "currencyUnitDescription": "Utilizat doar pentru afișare, după modificare toate unitățile monetare din sistem vor fi schimbate",
+    "saveSuccess": "Salvare reușită"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Salvare reușită",
+    "title": "Politica de confidențialitate"
+  },
+  "site": {
+    "customData": "Date personalizate",
+    "customDataDescription": "Date personalizate, utilizate pentru datele personalizate ale site-ului",
+    "customHtml": "HTML personalizat",
+    "customHtmlDescription": "Cod HTML personalizat care va fi injectat în partea de jos a etichetei body a site-ului.",
+    "keywords": "Cuvinte cheie",
+    "keywordsDescription": "Utilizate în scopuri SEO",
+    "logo": "LOGO",
+    "logoDescription": "Utilizat pentru a afișa locația unde trebuie să fie prezentat LOGO-ul",
+    "logoPlaceholder": "Vă rugăm să introduceți adresa URL a LOGO-ului, fără să se termine cu '/'",
+    "saveSuccess": "Salvare reușită",
+    "siteDesc": "Descrierea site-ului",
+    "siteDescDescription": "Utilizat pentru a afișa locația unde trebuie să fie prezentată descrierea site-ului",
+    "siteDescPlaceholder": "Vă rugăm să introduceți descrierea site-ului",
+    "siteDomain": "Domeniul site-ului",
+    "siteDomainDescription": "Adresa domeniului actual al site-ului, de exemplu pentru utilizare în e-mailuri",
+    "siteDomainPlaceholder": "Vă rugăm să introduceți adresa domeniului, câte un domeniu pe linie",
+    "siteName": "Numele site-ului",
+    "siteNameDescription": "Utilizat pentru a afișa locația unde trebuie să fie prezentat numele site-ului",
+    "siteNamePlaceholder": "Vă rugăm să introduceți numele site-ului"
+  },
+  "tabs": {
+    "currency": "Monedă",
+    "site": "Site",
+    "tos": "Termeni de serviciu"
+  },
+  "tos": {
+    "saveSuccess": "Salvare reușită",
+    "title": "Termeni de serviciu"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Client GitHub",
+  "clientIdDescription": "L'ID client de vos paramètres d'application OAuth GitHub",
+  "clientSecret": "Secret Client GitHub",
+  "clientSecretDescription": "Le secret client de vos paramètres d'application OAuth GitHub",
+  "enable": "Activer l'authentification GitHub",
+  "enableDescription": "Permettre aux utilisateurs de se connecter avec leurs comptes GitHub",
+  "saveFailed": "Échec de l'enregistrement des paramètres GitHub",
+  "saveSuccess": "Paramètres GitHub enregistrés avec succès"
+}

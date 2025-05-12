@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Hozzáférés",
+  "applyPlatform": "Alkalmazási Platform",
+  "enable": "Engedélyez",
+  "enableTip": "A bekapcsolás után a mobiltelefon regisztráció, bejelentkezés, kötés és oldás funkciók elérhetővé válnak",
+  "endpointLabel": "Végpont",
+  "logs": "Naplók",
+  "phoneNumberLabel": "Telefonszám",
+  "placeholders": {
+    "template": "Az Ön ellenőrző kódja {code}, érvényes 5 percig",
+    "templateCode": "Adja meg a sablonkódot"
+  },
+  "platform": "SMS Platform",
+  "platformConfigTip": "Kérjük, töltse ki a megadott {key} konfigurációt",
+  "platformTip": "Kérjük, válassza ki az SMS platformot",
+  "secretLabel": "Titok",
+  "sendFailed": "Küldés sikertelen",
+  "sendSuccess": "Sikeres küldés",
+  "settings": "Beállítások",
+  "signNameLabel": "Aláírás Neve",
+  "template": "SMS sablon",
+  "templateCodeLabel": "Sablon Kód",
+  "templateTip": "Kérjük, töltse ki az SMS sablont, tartsa meg a {code} részt a közepén, különben az SMS funkció nem fog működni.",
+  "testSms": "Teszt SMS küldése",
+  "testSmsPhone": "Adja meg a telefonszámot",
+  "testSmsTip": "Küldjön egy teszt SMS-t a konfiguráció ellenőrzéséhez",
+  "updateSuccess": "Sikeres frissítés",
+  "whitelistAreaCode": "Fehérlista Területi Kód",
+  "whitelistAreaCodeTip": "Kérjük, adja meg a fehérlista területi kódokat, pl. 1, 852, 886, 888",
+  "whitelistValidation": "Fehérlista Ellenőrzés",
+  "whitelistValidationTip": "Ha engedélyezve van, csak a fehérlistán szereplő területi kódok küldhetnek SMS-t"
+}

@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Accès",
+  "applyPlatform": "Plateforme d'application",
+  "enable": "Activer",
+  "enableTip": "Après activation, les fonctions d'enregistrement, de connexion, de liaison et de déliaison par téléphone mobile seront activées",
+  "endpointLabel": "Point de terminaison",
+  "logs": "Journaux",
+  "phoneNumberLabel": "Numéro de téléphone",
+  "placeholders": {
+    "template": "Votre code de vérification est {code}, valable pendant 5 minutes",
+    "templateCode": "Entrez le code du modèle"
+  },
+  "platform": "Plateforme SMS",
+  "platformConfigTip": "Veuillez remplir la configuration {key} fournie",
+  "platformTip": "Veuillez sélectionner la plateforme SMS",
+  "secretLabel": "Secret",
+  "sendFailed": "Échec de l'envoi",
+  "sendSuccess": "Envoi réussi",
+  "settings": "Paramètres",
+  "signNameLabel": "Nom de l'expéditeur",
+  "template": "Modèle SMS",
+  "templateCodeLabel": "Code de modèle",
+  "templateTip": "Veuillez remplir le modèle de SMS, conservez {code} au milieu, sinon la fonction SMS ne fonctionnera pas.",
+  "testSms": "Envoyer un SMS de test",
+  "testSmsPhone": "Entrez le numéro de téléphone",
+  "testSmsTip": "Envoyez un SMS de test pour vérifier votre configuration",
+  "updateSuccess": "Mise à jour réussie",
+  "whitelistAreaCode": "Code de zone sur liste blanche",
+  "whitelistAreaCodeTip": "Veuillez entrer les codes de zone sur liste blanche, par exemple, 1, 852, 886, 888",
+  "whitelistValidation": "Vérification de la liste blanche",
+  "whitelistValidationTip": "Lorsqu'elle est activée, seuls les codes de zone figurant sur la liste blanche peuvent envoyer des SMS"
+}

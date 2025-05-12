@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Acceso",
+  "applyPlatform": "Aplicar Plataforma",
+  "enable": "Habilitar",
+  "enableTip": "Después de habilitar, se activarán las funciones de registro, inicio de sesión, vinculación y desvinculación del teléfono móvil",
+  "endpointLabel": "Punto final",
+  "logs": "Registros",
+  "phoneNumberLabel": "Número de Teléfono",
+  "placeholders": {
+    "template": "Su código de verificación es {code}, válido por 5 minutos",
+    "templateCode": "Ingrese el código de la plantilla"
+  },
+  "platform": "Plataforma de SMS",
+  "platformConfigTip": "Por favor, complete la configuración proporcionada de {key}",
+  "platformTip": "Por favor, seleccione la plataforma de SMS",
+  "secretLabel": "Secreto",
+  "sendFailed": "Envío Fallido",
+  "sendSuccess": "Envío Exitoso",
+  "settings": "Configuración",
+  "signNameLabel": "Nombre de firma",
+  "template": "Plantilla de SMS",
+  "templateCodeLabel": "Código de plantilla",
+  "templateTip": "Por favor, completa la plantilla de SMS, mantén {code} en el medio, de lo contrario la función de SMS no funcionará",
+  "testSms": "Enviar SMS de Prueba",
+  "testSmsPhone": "Ingrese número de teléfono",
+  "testSmsTip": "Envía un SMS de prueba para verificar tu configuración",
+  "updateSuccess": "Actualización Exitosa",
+  "whitelistAreaCode": "Código de área en lista blanca",
+  "whitelistAreaCodeTip": "Por favor ingrese los códigos de área en la lista blanca, ej., 1, 852, 886, 888",
+  "whitelistValidation": "Verificación de lista blanca",
+  "whitelistValidationTip": "Cuando está habilitado, solo los códigos de área en la lista blanca pueden enviar SMS"
+}

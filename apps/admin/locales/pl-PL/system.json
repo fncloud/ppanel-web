@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Klucz dostępu",
+    "accessKeyDescription": "Klucz API dostarczany bezpłatnie przez https://exchangerate.host do uzyskiwania kursów walut",
+    "currencySymbol": "Symbol waluty",
+    "currencySymbolDescription": "Używane wyłącznie do celów wyświetlania, po zmianie wszystkie jednostki walutowe w systemie zostaną zmienione",
+    "currencyUnit": "Jednostka waluty",
+    "currencyUnitDescription": "Używane wyłącznie do celów wyświetlania, po zmianie wszystkie jednostki walutowe w systemie zostaną zmienione",
+    "saveSuccess": "Zapisano pomyślnie"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Zapisano pomyślnie",
+    "title": "Polityka prywatności"
+  },
+  "site": {
+    "customData": "Dane niestandardowe",
+    "customDataDescription": "Dane niestandardowe, używane do niestandardowych danych witryny",
+    "customHtml": "Niestandardowy HTML",
+    "customHtmlDescription": "Niestandardowy kod HTML, który ma być wstrzyknięty na końcu tagu bodyitryny.",
+    "keywords": "Słowa kluczowe",
+    "keywordsDescription": "Używane do celów SEO",
+    "logo": "LOGO",
+    "logoDescription": "Miejsce do wyświetlania LOGO",
+    "logoPlaceholder": "Wprowadź adres URL LOGO, nie kończ na '/'",
+    "saveSuccess": "Zapisano pomyślnie",
+    "siteDesc": "Opis strony",
+    "siteDescDescription": "Miejsce do wyświetlania opisu strony",
+    "siteDescPlaceholder": "Wprowadź opis strony",
+    "siteDomain": "Domena strony",
+    "siteDomainDescription": "Adres domeny bieżącej strony, na przykład używany w e-mailach",
+    "siteDomainPlaceholder": "Wprowadź adres domeny, wiele domen wprowadź w osobnych wierszach",
+    "siteName": "Nazwa strony",
+    "siteNameDescription": "Miejsce do wyświetlania nazwy strony",
+    "siteNamePlaceholder": "Wprowadź nazwę strony"
+  },
+  "tabs": {
+    "currency": "Waluta",
+    "site": "Strona",
+    "tos": "Warunki usługi"
+  },
+  "tos": {
+    "saveSuccess": "Zapisano pomyślnie",
+    "title": "Warunki usługi"
+  }
+}

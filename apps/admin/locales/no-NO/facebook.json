@@ -1,0 +1,10 @@
+{
+  "clientId": "Klient-ID",
+  "clientIdDescription": "Facebook App-ID fra Facebook Developers Console",
+  "clientSecret": "Klienthemmelighet",
+  "clientSecretDescription": "Facebook App-hemmelighet fra Facebook Developers Console",
+  "enable": "Aktiver",
+  "enableDescription": "Etter aktivering kan brukere logge inn med sin Facebook-konto",
+  "saveFailed": "Lagring mislyktes",
+  "saveSuccess": "Lagring vellykket"
+}

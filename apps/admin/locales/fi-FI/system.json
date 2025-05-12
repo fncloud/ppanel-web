@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Avain",
+    "accessKeyDescription": "https://exchangerate.host tarjoaa ilmaisen valuuttakurssi-API-avaimen",
+    "currencySymbol": "Valuuttasymboli",
+    "currencySymbolDescription": "Käytetään vain näyttötarkoituksiin, muutoksen jälkeen kaikki järjestelmän valuuttayksiköt muuttuvat",
+    "currencyUnit": "Valuuttayksikkö",
+    "currencyUnitDescription": "Käytetään vain näyttötarkoituksiin, muutoksen jälkeen kaikki järjestelmän valuuttayksiköt muuttuvat",
+    "saveSuccess": "Tallennus onnistui"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Tallennus onnistui",
+    "title": "Tietosuojakäytäntö"
+  },
+  "site": {
+    "customData": "Mukautettu tieto",
+    "customDataDescription": "Mukautettu tieto, jota käytetään sivuston mukautettuun tietoon",
+    "customHtml": "Mukautettu HTML",
+    "customHtmlDescription": "Mukautettu HTML-koodi, joka lisätään sivuston body -tagin loppuun.",
+    "keywords": "Avainsanat",
+    "keywordsDescription": "Käytetään SEO-tarkoituksiin",
+    "logo": "LOGO",
+    "logoDescription": "Näyttääksesi paikan, jossa LOGO tulee näkyä",
+    "logoPlaceholder": "Syötä LOGO:n URL-osoite, älä lopeta '/'-merkillä",
+    "saveSuccess": "Tallennus onnistui",
+    "siteDesc": "Sivuston kuvaus",
+    "siteDescDescription": "Näyttääksesi paikan, jossa sivuston kuvaus tulee näkyä",
+    "siteDescPlaceholder": "Syötä sivuston kuvaus",
+    "siteDomain": "Sivuston verkkotunnus",
+    "siteDomainDescription": "Nykyisen verkkosivuston verkkotunnuksen osoite, esimerkiksi sähköpostissa käytettäväksi",
+    "siteDomainPlaceholder": "Syötä verkkotunnuksen osoite, useita verkkotunnuksia varten yksi per rivi",
+    "siteName": "Sivuston nimi",
+    "siteNameDescription": "Näyttääksesi paikan, jossa sivuston nimi tulee näkyä",
+    "siteNamePlaceholder": "Syötä sivuston nimi"
+  },
+  "tabs": {
+    "currency": "Valuutta",
+    "site": "Sivusto",
+    "tos": "Käyttöehdot"
+  },
+  "tos": {
+    "saveSuccess": "Tallennus onnistui",
+    "title": "Palveluehdot"
+  }
+}

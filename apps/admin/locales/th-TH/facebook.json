@@ -1,0 +1,10 @@
+{
+  "clientId": "รหัสลูกค้า",
+  "clientIdDescription": "รหัสแอป Facebook จากคอนโซลนักพัฒนาของ Facebook",
+  "clientSecret": "รหัสลับของลูกค้า",
+  "clientSecretDescription": "รหัสลับของแอป Facebook จาก Facebook Developers Console",
+  "enable": "เปิดใช้งาน",
+  "enableDescription": "หลังจากเปิดใช้งานแล้ว ผู้ใช้สามารถลงชื่อเข้าใช้ด้วยบัญชี Facebook ของพวกเขาได้",
+  "saveFailed": "บันทึกล้มเหลว",
+  "saveSuccess": "บันทึกสำเร็จ"
+}

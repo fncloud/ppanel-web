@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Estä virtuaalikone",
+  "blockVirtualMachineDescription": "Kun tämä on käytössä, laitteiden käyttö virtuaalikoneissa tai emulaattoreissa estetään",
+  "communicationKey": "Viestintäavain",
+  "communicationKeyDescription": "Viestintäavain käytetään turvalliseen viestintään laitteiden ja palvelimien välillä",
+  "enable": "Ota käyttöön",
+  "enableDescription": "Kun otat käyttöön, useita laiteidentifikaattoreita, kuten IMEI/IDFA/IDFV/AndroidID/Mac-osoite, tuetaan kirjautumiseen ja rekisteröitymiseen.",
+  "enableSecurity": "Ota käyttöön viestinnän salaus",
+  "enableSecurityDescription": "Kun tämä on käytössä, laitteiden ja palvelimien välinen viestintä salataan",
+  "saveFailed": "Tallennus epäonnistui",
+  "saveSuccess": "Tallennus onnistui",
+  "showAds": "Näytä mainoksia",
+  "showAdsDescription": "Kun tämä on käytössä, mainoksia näytetään laitteilla"
+}

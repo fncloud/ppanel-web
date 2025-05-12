@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Client",
+  "clientIdDescription": "ID client Google OAuth 2.0 din Google Cloud Console",
+  "clientSecret": "Secretul Clientului",
+  "clientSecretDescription": "Secretul clientului Google OAuth 2.0 din Consola Google Cloud",
+  "enable": "Activează",
+  "enableDescription": "După activare, utilizatorii se pot autentifica cu contul lor Google",
+  "saveFailed": "Salvarea a eșuat",
+  "saveSuccess": "Salvare reușită"
+}

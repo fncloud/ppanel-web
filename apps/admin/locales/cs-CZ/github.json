@@ -1,0 +1,10 @@
+{
+  "clientId": "ID klienta GitHub",
+  "clientIdDescription": "ID klienta z nastavení vaší GitHub OAuth aplikace",
+  "clientSecret": "GitHub klientský tajný klíč",
+  "clientSecretDescription": "Tajný klíč klienta z nastavení vaší GitHub OAuth aplikace",
+  "enable": "Povolit ověřování GitHub",
+  "enableDescription": "Povolit uživatelům přihlásit se pomocí jejich účtů na GitHubu",
+  "saveFailed": "Nepodařilo se uložit nastavení GitHubu",
+  "saveSuccess": "Nastavení GitHubu bylo úspěšně uloženo"
+}

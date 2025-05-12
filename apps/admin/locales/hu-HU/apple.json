@@ -1,0 +1,16 @@
+{
+  "clientId": "Szolgáltatás azonosító",
+  "clientIdDescription": "Apple Szolgáltatásazonosító, amelyet az Apple Fejlesztői Portálról szerezhet be",
+  "clientSecret": "Privát kulcs",
+  "clientSecretDescription": "A privát kulcs tartalma (.p8 fájl), amelyet az Apple-lel való hitelesítéshez használnak",
+  "enable": "Engedélyez",
+  "enableDescription": "Bekapcsolás után a felhasználók bejelentkezhetnek az Apple ID-jukkal",
+  "keyId": "Kulcsazonosító",
+  "keyIdDescription": "Az Apple Fejlesztői Portálon található privát kulcs azonosítója",
+  "redirectUri": "Átirányítási URL",
+  "redirectUriDescription": "Kérjük, töltse ki az API címet a sikeres Apple hitelesítést követően átirányított URL-hez. Ne használjon / jelet a végén.",
+  "saveFailed": "Mentés sikertelen",
+  "saveSuccess": "Sikeres mentés",
+  "teamId": "Csapat azonosító",
+  "teamIdDescription": "Apple Fejlesztői Csapatazonosító"
+}

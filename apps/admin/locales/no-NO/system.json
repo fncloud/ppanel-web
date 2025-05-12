@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Nøkkel",
+    "accessKeyDescription": "https://exchangerate.host tilbyr gratis valutakurs-API-nøkkel",
+    "currencySymbol": "Valutasymbol",
+    "currencySymbolDescription": "Kun for visningsformål, endring vil påvirke alle valutaenheter i systemet",
+    "currencyUnit": "Valutaenhet",
+    "currencyUnitDescription": "Kun for visningsformål, endring vil påvirke alle valutaenheter i systemet",
+    "saveSuccess": "Lagring vellykket"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Lagring vellykket",
+    "title": "Personvernerklæring"
+  },
+  "site": {
+    "customData": "Egendata",
+    "customDataDescription": "Egendata, brukt for egendata på nettstedet",
+    "customHtml": "Egendefinert HTML",
+    "customHtmlDescription": "Egendefinert HTML-kode som skal settes inn i bunnen av nettstedets body-tag.",
+    "keywords": "Nøkkelord",
+    "keywordsDescription": "Brukes til SEO-formål",
+    "logo": "LOGO",
+    "logoDescription": "Brukes til å vise hvor LOGO skal vises",
+    "logoPlaceholder": "Vennligst skriv inn URL-adressen til LOGO, ikke avslutt med '/'",
+    "saveSuccess": "Lagring vellykket",
+    "siteDesc": "Nettstedbeskrivelse",
+    "siteDescDescription": "Brukes til å vise hvor nettstedbeskrivelsen skal vises",
+    "siteDescPlaceholder": "Vennligst skriv inn nettstedbeskrivelsen",
+    "siteDomain": "Nettsteddomene",
+    "siteDomainDescription": "Domenenavnet til det nåværende nettstedet, for eksempel brukt i e-post",
+    "siteDomainPlaceholder": "Vennligst skriv inn domenenavnet, flere domener skal være på hver sin linje",
+    "siteName": "Nettstednavn",
+    "siteNameDescription": "Brukes til å vise hvor nettstednavnet skal vises",
+    "siteNamePlaceholder": "Vennligst skriv inn nettstednavnet"
+  },
+  "tabs": {
+    "currency": "Valuta",
+    "site": "Nettsted",
+    "tos": "Vilkår for bruk"
+  },
+  "tos": {
+    "saveSuccess": "Lagring vellykket",
+    "title": "Tjenestevilkår"
+  }
+}

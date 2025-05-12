@@ -1,0 +1,10 @@
+{
+  "clientId": "客户端 ID",
+  "clientIdDescription": "来自 Facebook 开发者控制台的 Facebook 应用 ID",
+  "clientSecret": "客户端密钥",
+  "clientSecretDescription": "来自 Facebook 开发者控制台的 Facebook 应用密钥",
+  "enable": "启用",
+  "enableDescription": "启用后，用户可以使用他们的 Facebook 帐户登录",
+  "saveFailed": "保存失败",
+  "saveSuccess": "保存成功"
+}

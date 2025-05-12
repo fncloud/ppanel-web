@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Hozzáférési kulcs",
+    "accessKeyDescription": "A https://exchangerate.host által ingyenesen biztosított árfolyam API kulcs",
+    "currencySymbol": "Pénznem szimbólum",
+    "currencySymbolDescription": "Csak megjelenítésre használatos, a módosítás után a rendszer összes pénznem egysége megváltozik",
+    "currencyUnit": "Pénznem egység",
+    "currencyUnitDescription": "Csak megjelenítésre használatos, a módosítás után a rendszer összes pénznem egysége megváltozik",
+    "saveSuccess": "Sikeres mentés"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Mentés sikeres",
+    "title": "Adatvédelmi irányelvek"
+  },
+  "site": {
+    "customData": "Egyedi adatok",
+    "customDataDescription": "Egyedi adatok, a webhely egyedi adatainak használatára",
+    "customHtml": "Egyedi HTML",
+    "customHtmlDescription": "Egyedi HTML kód, amelyet a webhely bodyímkéjének aljára kell beilleszteni.",
+    "keywords": "Kulcsszavak",
+    "keywordsDescription": "SEO célokra használva",
+    "logo": "LOGÓ",
+    "logoDescription": "A LOGÓ megjelenítésére szolgáló hely",
+    "logoPlaceholder": "Kérjük, adja meg a LOGÓ URL-címét, ne végződjön '/' jellel",
+    "saveSuccess": "Sikeres mentés",
+    "siteDesc": "Webhely leírása",
+    "siteDescDescription": "A webhely leírásának megjelenítésére szolgáló hely",
+    "siteDescPlaceholder": "Kérjük, adja meg a webhely leírását",
+    "siteDomain": "Webhely domain",
+    "siteDomainDescription": "A jelenlegi weboldal domain címe, például e-mailekben használva",
+    "siteDomainPlaceholder": "Kérjük, adja meg a domain címet, több domain esetén soronként egyet",
+    "siteName": "Webhely neve",
+    "siteNameDescription": "A webhely nevének megjelenítésére szolgáló hely",
+    "siteNamePlaceholder": "Kérjük, adja meg a webhely nevét"
+  },
+  "tabs": {
+    "currency": "Pénznem",
+    "site": "Webhely",
+    "tos": "Szolgáltatási feltételek"
+  },
+  "tos": {
+    "saveSuccess": "Sikeres mentés",
+    "title": "Szolgáltatási feltételek"
+  }
+}

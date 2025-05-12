@@ -1,0 +1,16 @@
+{
+  "clientId": "Dienst-ID",
+  "clientIdDescription": "Apple-Dienst-ID, die Sie im Apple Developer Portal erhalten können",
+  "clientSecret": "Privater Schlüssel",
+  "clientSecretDescription": "Der private Schlüsselinhalt (.p8-Datei), der für die Authentifizierung bei Apple verwendet wird",
+  "enable": "Aktivieren",
+  "enableDescription": "Nach der Aktivierung können sich Benutzer mit ihrer Apple-ID anmelden",
+  "keyId": "Schlüssel-ID",
+  "keyIdDescription": "Die ID Ihres privaten Schlüssels aus dem Apple Developer Portal",
+  "redirectUri": "Weiterleitungs-URL",
+  "redirectUriDescription": "Bitte geben Sie die API-Adresse der umgeleiteten URL ein, nachdem die Apple-Authentifizierung erfolgreich abgeschlossen wurde. Verwenden Sie kein / am Ende.",
+  "saveFailed": "Speichern fehlgeschlagen",
+  "saveSuccess": "Erfolgreich gespeichert",
+  "teamId": "Team-ID",
+  "teamIdDescription": "Apple Developer-Team-ID"
+}

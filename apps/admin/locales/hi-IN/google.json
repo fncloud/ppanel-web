@@ -1,0 +1,10 @@
+{
+  "clientId": "क्लाइंट आईडी",
+  "clientIdDescription": "गूगल क्लाउड कंसोल से गूगल OAuth 2.0 क्लाइंट आईडी",
+  "clientSecret": "क्लाइंट सीक्रेट",
+  "clientSecretDescription": "गूगल क्लाउड कंसोल से गूगल OAuth 2.0 क्लाइंट सीक्रेट",
+  "enable": "सक्षम करें",
+  "enableDescription": "सक्षम करने के बाद, उपयोगकर्ता अपने Google खाते से साइन इन कर सकते हैं",
+  "saveFailed": "सहेजना विफल हुआ",
+  "saveSuccess": "सहेजना सफल रहा"
+}

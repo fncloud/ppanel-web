@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Virtuelle Maschine blockieren",
+  "blockVirtualMachineDescription": "Wenn aktiviert, wird verhindert, dass Geräte auf virtuellen Maschinen oder Emulatoren ausgeführt werden.",
+  "communicationKey": "Kommunikationsschlüssel",
+  "communicationKeyDescription": "Der Kommunikationsschlüssel wird für die sichere Kommunikation zwischen Geräten und Servern verwendet.",
+  "enable": "Aktivieren",
+  "enableDescription": "Nach der Aktivierung werden mehrere Geräteidentifikatoren wie IMEI/IDFA/IDFV/AndroidID/Mac-Adresse für die Anmeldung und Registrierung unterstützt.",
+  "enableSecurity": "Kommunikationsverschlüsselung aktivieren",
+  "enableSecurityDescription": "Wenn aktiviert, wird die Kommunikation zwischen Geräten und Servern verschlüsselt.",
+  "saveFailed": "Speichern fehlgeschlagen",
+  "saveSuccess": "Speichern erfolgreich",
+  "showAds": "Werbung anzeigen",
+  "showAdsDescription": "Wenn aktiviert, werden auf den Geräten Anzeigen angezeigt."
+}

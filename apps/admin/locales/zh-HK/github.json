@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub 客戶端 ID",
+  "clientIdDescription": "來自您的 GitHub OAuth 應用程式設定的客戶端 ID",
+  "clientSecret": "GitHub 客戶端密碼",
+  "clientSecretDescription": "來自您 GitHub OAuth 應用程式設定的客戶端密碼",
+  "enable": "啟用 GitHub 認證",
+  "enableDescription": "允許用戶使用他們的 GitHub 帳戶登入",
+  "saveFailed": "無法儲存 GitHub 設定",
+  "saveSuccess": "GitHub 設定已成功儲存"
+}

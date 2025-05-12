@@ -1,0 +1,10 @@
+{
+  "clientId": "客戶 ID",
+  "clientIdDescription": "來自 Facebook 開發者控制台的 Facebook 應用程式 ID",
+  "clientSecret": "客戶密碼",
+  "clientSecretDescription": "來自 Facebook 開發者控制台的 Facebook 應用程式密碼",
+  "enable": "啟用",
+  "enableDescription": "啟用後，用戶可以使用他們的 Facebook 帳戶登入",
+  "saveFailed": "儲存失敗",
+  "saveSuccess": "儲存成功"
+}

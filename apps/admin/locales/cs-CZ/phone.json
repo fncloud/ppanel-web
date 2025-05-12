@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Přístup",
+  "applyPlatform": "Použít platformu",
+  "enable": "Povolit",
+  "enableTip": "Po povolení budou povoleny funkce registrace, přihlášení, připojení a odpojení mobilního telefonu",
+  "endpointLabel": "Koncový bod",
+  "logs": "Protokoly",
+  "phoneNumberLabel": "Telefonní číslo",
+  "placeholders": {
+    "template": "Váš ověřovací kód je {code}, platný po dobu 5 minut",
+    "templateCode": "Zadejte kód šablony"
+  },
+  "platform": "SMS platforma",
+  "platformConfigTip": "Vyplňte prosím poskytnutou konfiguraci {key}",
+  "platformTip": "Vyberte prosím platformu pro SMS",
+  "secretLabel": "Tajný klíč",
+  "sendFailed": "Odeslání se nezdařilo",
+  "sendSuccess": "Úspěšně odesláno",
+  "settings": "Nastavení",
+  "signNameLabel": "Název podpisu",
+  "template": "Šablona SMS",
+  "templateCodeLabel": "Kód šablony",
+  "templateTip": "Prosím vyplňte SMS šablonu, ponechte {code} uprostřed, jinak SMS funkce nebude fungovat",
+  "testSms": "Odeslat testovací SMS",
+  "testSmsPhone": "Zadejte telefonní číslo",
+  "testSmsTip": "Odeslat testovací SMS pro ověření vaší konfigurace",
+  "updateSuccess": "Aktualizace úspěšná",
+  "whitelistAreaCode": "Kód oblasti v bílém seznamu",
+  "whitelistAreaCodeTip": "Zadejte kódy oblastí v bílém seznamu, např. 1, 852, 886, 888",
+  "whitelistValidation": "Ověření bílého seznamu",
+  "whitelistValidationTip": "Pokud je povoleno, mohou SMS odesílat pouze kódy oblastí v bílém seznamu"
+}

@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "คีย์การเข้าถึง",
+    "accessKeyDescription": "https://exchangerate.host ให้บริการ API อัตราแลกเปลี่ยนฟรี",
+    "currencySymbol": "สัญลักษณ์สกุลเงิน",
+    "currencySymbolDescription": "ใช้สำหรับการแสดงผลเท่านั้น การเปลี่ยนแปลงจะส่งผลต่อหน่วยสกุลเงินทั้งหมดในระบบ",
+    "currencyUnit": "หน่วยสกุลเงิน",
+    "currencyUnitDescription": "ใช้สำหรับการแสดงผลเท่านั้น การเปลี่ยนแปลงจะส่งผลต่อหน่วยสกุลเงินทั้งหมดในระบบ",
+    "saveSuccess": "บันทึกสำเร็จ"
+  },
+  "privacy-policy": {
+    "saveSuccess": "บันทึกสำเร็จ",
+    "title": "นโยบายความเป็นส่วนตัว"
+  },
+  "site": {
+    "customData": "ข้อมูลที่กำหนดเอง",
+    "customDataDescription": "ข้อมูลที่กำหนดเอง ใช้สำหรับข้อมูลที่กำหนดเองของเว็บไซต์",
+    "customHtml": "HTML ที่กำหนดเอง",
+    "customHtmlDescription": "รหัส HTML ที่กำหนดเองเพื่อแทรกลงในส่วนล่างของแท็ก body ของเว็บไซต์.",
+    "keywords": "คำสำคัญ",
+    "keywordsDescription": "ใช้สำหรับวัตถุประสงค์ SEO",
+    "logo": "LOGO",
+    "logoDescription": "ใช้สำหรับแสดงตำแหน่งที่ต้องการแสดง LOGO",
+    "logoPlaceholder": "กรุณาใส่ URL ของ LOGO โดยไม่ต้องลงท้ายด้วย '/'",
+    "saveSuccess": "บันทึกสำเร็จ",
+    "siteDesc": "คำอธิบายเว็บไซต์",
+    "siteDescDescription": "ใช้สำหรับแสดงตำแหน่งที่ต้องการแสดงคำอธิบายเว็บไซต์",
+    "siteDescPlaceholder": "กรุณาใส่คำอธิบายเว็บไซต์",
+    "siteDomain": "โดเมนเว็บไซต์",
+    "siteDomainDescription": "ที่อยู่โดเมนของเว็บไซต์ปัจจุบัน เช่น ใช้ในอีเมล",
+    "siteDomainPlaceholder": "กรุณาใส่ที่อยู่โดเมน ใส่หลายโดเมนได้โดยใส่ทีละบรรทัด",
+    "siteName": "ชื่อเว็บไซต์",
+    "siteNameDescription": "ใช้สำหรับแสดงตำแหน่งที่ต้องการแสดงชื่อเว็บไซต์",
+    "siteNamePlaceholder": "กรุณาใส่ชื่อเว็บไซต์"
+  },
+  "tabs": {
+    "currency": "สกุลเงิน",
+    "site": "เว็บไซต์",
+    "tos": "ข้อกำหนดการให้บริการ"
+  },
+  "tos": {
+    "saveSuccess": "บันทึกสำเร็จ",
+    "title": "ข้อกำหนดการให้บริการ"
+  }
+}

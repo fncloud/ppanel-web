@@ -1,0 +1,10 @@
+{
+  "clientId": "गिटहब क्लाइंट आईडी",
+  "clientIdDescription": "आपके GitHub OAuth एप्लिकेशन सेटिंग्स से क्लाइंट आईडी",
+  "clientSecret": "GitHub क्लाइंट सीक्रेट",
+  "clientSecretDescription": "आपके GitHub OAuth एप्लिकेशन सेटिंग्स से क्लाइंट सीक्रेट",
+  "enable": "GitHub प्रमाणीकरण सक्षम करें",
+  "enableDescription": "उपयोगकर्ताओं को उनके GitHub खातों के साथ साइन इन करने की अनुमति दें",
+  "saveFailed": "GitHub सेटिंग्स सहेजने में विफल",
+  "saveSuccess": "GitHub सेटिंग्स सफलतापूर्वक सहेजी गईं"
+}

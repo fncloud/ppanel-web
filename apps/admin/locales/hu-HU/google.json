@@ -1,0 +1,10 @@
+{
+  "clientId": "Ügyfélazonosító",
+  "clientIdDescription": "Google OAuth 2.0 ügyfélazonosító a Google Cloud Console-ból",
+  "clientSecret": "Ügyfél titok",
+  "clientSecretDescription": "Google OAuth 2.0 kliens titok a Google Cloud Console-ból",
+  "enable": "Engedélyez",
+  "enableDescription": "A bekapcsolás után a felhasználók bejelentkezhetnek a Google-fiókjukkal",
+  "saveFailed": "Mentés sikertelen",
+  "saveSuccess": "Sikeres mentés"
+}

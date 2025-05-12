@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub Klient-ID",
+  "clientIdDescription": "Klient-ID-en fra innstillingene for din GitHub OAuth-applikasjon",
+  "clientSecret": "GitHub-klienthemmelighet",
+  "clientSecretDescription": "Klienthemmeligheten fra innstillingene for din GitHub OAuth-applikasjon",
+  "enable": "Aktiver GitHub-autentisering",
+  "enableDescription": "Tillat brukere å logge inn med sine GitHub-kontoer",
+  "saveFailed": "Kunne ikke lagre GitHub-innstillinger",
+  "saveSuccess": "GitHub-innstillinger lagret vellykket"
+}

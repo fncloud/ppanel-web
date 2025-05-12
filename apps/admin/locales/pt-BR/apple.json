@@ -1,0 +1,16 @@
+{
+  "clientId": "ID do Serviço",
+  "clientIdDescription": "ID de Serviço da Apple, você pode obtê-lo no Portal de Desenvolvedores da Apple",
+  "clientSecret": "Chave Privada",
+  "clientSecretDescription": "O conteúdo da chave privada (arquivo .p8) usado para autenticação com a Apple",
+  "enable": "Habilitar",
+  "enableDescription": "Após habilitar, os usuários podem fazer login com seu ID Apple",
+  "keyId": "ID da Chave",
+  "keyIdDescription": "O ID da sua chave privada no Apple Developer Portal",
+  "redirectUri": "URL de Redirecionamento",
+  "redirectUriDescription": "Por favor, preencha o endereço da API da URL para a qual será redirecionado após passar com sucesso pela autenticação da Apple. Não use / no final.",
+  "saveFailed": "Falha ao salvar",
+  "saveSuccess": "Salvo com sucesso",
+  "teamId": "ID da Equipe",
+  "teamIdDescription": "ID da Equipe de Desenvolvedores da Apple"
+}

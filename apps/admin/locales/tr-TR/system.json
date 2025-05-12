@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Anahtar",
+    "accessKeyDescription": "https://exchangerate.host tarafından ücretsiz sağlanan döviz kuru API anahtarı",
+    "currencySymbol": "Para Birimi Simgesi",
+    "currencySymbolDescription": "Sadece gösterim amaçlı kullanılır, değiştirildiğinde sistemdeki tüm para birimi birimleri değişecektir",
+    "currencyUnit": "Para Birimi Birimi",
+    "currencyUnitDescription": "Sadece gösterim amaçlı kullanılır, değiştirildiğinde sistemdeki tüm para birimi birimleri değişecektir",
+    "saveSuccess": "Başarıyla kaydedildi"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Başarıyla Kaydedildi",
+    "title": "Gizlilik Politikası"
+  },
+  "site": {
+    "customData": "Özel Veri",
+    "customDataDescription": "Özel Veri, sitenin özel verileri için kullanılır",
+    "customHtml": "Özel HTML",
+    "customHtmlDescription": "Site'in body etiketinin altına yerleştirilecek özel HTML kodu.",
+    "keywords": "Anahtar Kelimeler",
+    "keywordsDescription": "SEO amaçları için kullanılır",
+    "logo": "LOGO",
+    "logoDescription": "LOGO'nun gösterilmesi gereken yeri belirtir",
+    "logoPlaceholder": "Lütfen LOGO'nun URL adresini girin, '/' ile bitmemelidir",
+    "saveSuccess": "Başarıyla kaydedildi",
+    "siteDesc": "Site Açıklaması",
+    "siteDescDescription": "Site açıklamasının gösterilmesi gereken yeri belirtir",
+    "siteDescPlaceholder": "Lütfen site açıklamasını girin",
+    "siteDomain": "Site Alan Adı",
+    "siteDomainDescription": "Mevcut web sitesinin alan adı adresi, örneğin e-postalarda kullanılmak üzere",
+    "siteDomainPlaceholder": "Lütfen alan adı adresini girin, birden fazla alan adı için her satıra bir tane yazın",
+    "siteName": "Site Adı",
+    "siteNameDescription": "Site adının gösterilmesi gereken yeri belirtir",
+    "siteNamePlaceholder": "Lütfen site adını girin"
+  },
+  "tabs": {
+    "currency": "Para Birimi",
+    "site": "Site",
+    "tos": "Hizmet Şartları"
+  },
+  "tos": {
+    "saveSuccess": "Kaydetme Başarılı",
+    "title": "Hizmet Şartları"
+  }
+}

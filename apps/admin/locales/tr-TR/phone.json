@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Erişim",
+  "applyPlatform": "Platforma Başvur",
+  "enable": "Etkinleştir",
+  "enableTip": "Etkinleştirildikten sonra, cep telefonu kaydı, giriş, bağlama ve bağlantı kesme işlevleri etkinleştirilecektir",
+  "endpointLabel": "Uç Nokta",
+  "logs": "Günlükler",
+  "phoneNumberLabel": "Telefon Numarası",
+  "placeholders": {
+    "template": "Doğrulama kodunuz {code}, 5 dakika geçerlidir",
+    "templateCode": "Şablon kodunu girin"
+  },
+  "platform": "SMS Platformu",
+  "platformConfigTip": "Lütfen sağlanan {key} yapılandırmasını doldurun",
+  "platformTip": "Lütfen SMS platformunu seçin",
+  "secretLabel": "Gizli Anahtar",
+  "sendFailed": "Gönderim Başarısız",
+  "sendSuccess": "Gönderim Başarılı",
+  "settings": "Ayarlar",
+  "signNameLabel": "İmza Adı",
+  "template": "SMS Şablonu",
+  "templateCodeLabel": "Şablon Kodu",
+  "templateTip": "Lütfen SMS şablonunu doldurun, {code} kısmını ortada bırakın, aksi takdirde SMS işlevi çalışmayacaktır",
+  "testSms": "Test SMS Gönder",
+  "testSmsPhone": "Telefon numarasını girin",
+  "testSmsTip": "Yapılandırmanızı doğrulamak için bir test SMS'i gönderin",
+  "updateSuccess": "Güncelleme Başarılı",
+  "whitelistAreaCode": "Beyaz Liste Alan Kodu",
+  "whitelistAreaCodeTip": "Lütfen beyaz liste alan kodlarını girin, örneğin, 1, 852, 886, 888",
+  "whitelistValidation": "Beyaz Liste Doğrulaması",
+  "whitelistValidationTip": "Etkinleştirildiğinde, yalnızca beyaz listedeki alan kodları SMS gönderebilir"
+}

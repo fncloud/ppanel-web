@@ -1,0 +1,16 @@
+{
+  "clientId": "Ідентифікатор сервісу",
+  "clientIdDescription": "Apple Service ID, ви можете отримати його на порталі розробників Apple",
+  "clientSecret": "Приватний ключ",
+  "clientSecretDescription": "Вміст приватного ключа (.p8 файл), що використовується для автентифікації з Apple",
+  "enable": "Увімкнути",
+  "enableDescription": "Після увімкнення користувачі можуть увійти за допомогою свого Apple ID",
+  "keyId": "Ідентифікатор ключа",
+  "keyIdDescription": "Ідентифікатор вашого приватного ключа з Apple Developer Portal",
+  "redirectUri": "URL перенаправлення",
+  "redirectUriDescription": "Будь ласка, введіть адресу API перенаправленого URL після успішної аутентифікації через Apple. Не використовуйте / в кінці.",
+  "saveFailed": "Не вдалося зберегти",
+  "saveSuccess": "Збереження успішне",
+  "teamId": "Ідентифікатор команди",
+  "teamIdDescription": "Ідентифікатор команди розробників Apple"
+}

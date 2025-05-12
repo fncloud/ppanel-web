@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Clave de acceso",
+    "accessKeyDescription": "https://exchangerate.host proporciona una clave API gratuita para tasas de cambio",
+    "currencySymbol": "Símbolo de moneda",
+    "currencySymbolDescription": "Solo para fines de visualización, cambiarlo alterará todas las unidades monetarias en el sistema",
+    "currencyUnit": "Unidad monetaria",
+    "currencyUnitDescription": "Solo para fines de visualización, cambiarlo alterará todas las unidades monetarias en el sistema",
+    "saveSuccess": "Guardado exitosamente"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Guardado exitoso",
+    "title": "Política de Privacidad"
+  },
+  "site": {
+    "customData": "Datos Personalizados",
+    "customDataDescription": "Datos Personalizados, utilizados para datos personalizados del sitio",
+    "customHtml": "HTML personalizado",
+    "customHtmlDescription": "Código HTML personalizado que se inyectará al final de la etiqueta body del sitio.",
+    "keywords": "Palabras clave",
+    "keywordsDescription": "Utilizado para propósitos de SEO",
+    "logo": "LOGO",
+    "logoDescription": "Usado para mostrar la ubicación donde se debe exhibir el LOGO",
+    "logoPlaceholder": "Por favor, ingresa la URL del LOGO, no termines con '/'",
+    "saveSuccess": "Guardado exitosamente",
+    "siteDesc": "Descripción del sitio",
+    "siteDescDescription": "Usado para mostrar la ubicación donde se debe exhibir la descripción del sitio",
+    "siteDescPlaceholder": "Por favor, ingresa la descripción del sitio",
+    "siteDomain": "Dominio del sitio",
+    "siteDomainDescription": "La dirección de dominio del sitio web actual, por ejemplo, para usar en correos electrónicos",
+    "siteDomainPlaceholder": "Por favor, ingresa la dirección del dominio, múltiples dominios deben estar en líneas separadas",
+    "siteName": "Nombre del sitio",
+    "siteNameDescription": "Usado para mostrar la ubicación donde se debe exhibir el nombre del sitio",
+    "siteNamePlaceholder": "Por favor, ingresa el nombre del sitio"
+  },
+  "tabs": {
+    "currency": "Moneda",
+    "site": "Sitio",
+    "tos": "Términos del servicio"
+  },
+  "tos": {
+    "saveSuccess": "Guardado exitoso",
+    "title": "Términos del servicio"
+  }
+}

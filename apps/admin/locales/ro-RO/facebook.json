@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Client",
+  "clientIdDescription": "ID-ul aplicației Facebook din Consola pentru Dezvoltatori Facebook",
+  "clientSecret": "Secretul Clientului",
+  "clientSecretDescription": "Secretul aplicației Facebook din Consola pentru Dezvoltatori Facebook",
+  "enable": "Activează",
+  "enableDescription": "După activare, utilizatorii se pot autentifica cu contul lor de Facebook",
+  "saveFailed": "Salvarea a eșuat",
+  "saveSuccess": "Salvare reușită"
+}

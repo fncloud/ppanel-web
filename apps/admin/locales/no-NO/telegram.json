@@ -1,0 +1,10 @@
+{
+  "clientId": "Bot-ID",
+  "clientIdDescription": "Telegram Bot-ID, du kan få den fra @BotFather",
+  "clientSecret": "Bot-token",
+  "clientSecretDescription": "Telegram Bot Token, du kan få den fra @BotFather",
+  "enable": "Aktiver",
+  "enableDescription": "Etter aktivering vil funksjonene for registrering, innlogging, binding og frakobling av mobiltelefon bli aktivert",
+  "saveFailed": "Lagring mislyktes",
+  "saveSuccess": "Lagring vellykket"
+}

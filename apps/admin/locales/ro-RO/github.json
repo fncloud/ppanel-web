@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Client GitHub",
+  "clientIdDescription": "ID-ul clientului din setările aplicației tale OAuth de pe GitHub",
+  "clientSecret": "Secretul Clientului GitHub",
+  "clientSecretDescription": "Secretul clientului din setările aplicației tale GitHub OAuth",
+  "enable": "Activează autentificarea GitHub",
+  "enableDescription": "Permite utilizatorilor să se autentifice cu conturile lor GitHub",
+  "saveFailed": "Nu s-a reușit salvarea setărilor GitHub",
+  "saveSuccess": "Setările GitHub au fost salvate cu succes"
+}

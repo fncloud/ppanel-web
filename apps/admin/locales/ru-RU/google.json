@@ -1,0 +1,10 @@
+{
+  "clientId": "ID клиента",
+  "clientIdDescription": "Идентификатор клиента Google OAuth 2.0 из консоли Google Cloud",
+  "clientSecret": "Секрет клиента",
+  "clientSecretDescription": "Секрет клиента Google OAuth 2.0 из консоли Google Cloud",
+  "enable": "Включить",
+  "enableDescription": "После включения пользователи смогут входить в систему с помощью своей учетной записи Google",
+  "saveFailed": "Не удалось сохранить",
+  "saveSuccess": "Сохранение успешно"
+}

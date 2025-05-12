@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Blokovat virtuální stroj",
+  "blockVirtualMachineDescription": "Pokud je povoleno, zařízení nebudou moci běžet na virtuálních strojích nebo emulátorech",
+  "communicationKey": "Komunikační klíč",
+  "communicationKeyDescription": "Komunikační klíč se používá pro bezpečnou komunikaci mezi zařízeními a servery",
+  "enable": "Povolit",
+  "enableDescription": "Po povolení jsou podporovány různé identifikátory zařízení, jako jsou IMEI/IDFA/IDFV/AndroidID/Mac adresa pro přihlášení a registraci",
+  "enableSecurity": "Povolit šifrování komunikace",
+  "enableSecurityDescription": "Pokud je povoleno, komunikace mezi zařízeními a servery bude šifrována",
+  "saveFailed": "Uložení se nezdařilo",
+  "saveSuccess": "Uložení bylo úspěšné",
+  "showAds": "Zobrazit reklamy",
+  "showAdsDescription": "Pokud je povoleno, na zařízeních se budou zobrazovat reklamy"
+}

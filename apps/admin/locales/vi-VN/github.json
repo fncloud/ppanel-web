@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Khách hàng GitHub",
+  "clientIdDescription": "ID khách hàng từ cài đặt ứng dụng OAuth GitHub của bạn",
+  "clientSecret": "Mã Bí Mật Khách Hàng GitHub",
+  "clientSecretDescription": "Mã bí mật của ứng dụng OAuth GitHub từ cài đặt ứng dụng của bạn",
+  "enable": "Bật Xác thực GitHub",
+  "enableDescription": "Cho phép người dùng đăng nhập bằng tài khoản GitHub của họ",
+  "saveFailed": "Không thể lưu cài đặt GitHub",
+  "saveSuccess": "Cài đặt GitHub đã được lưu thành công"
+}

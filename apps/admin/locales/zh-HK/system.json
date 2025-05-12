@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "密鑰",
+    "accessKeyDescription": "https://exchangerate.host 提供免費提供的匯率API密鑰",
+    "currencySymbol": "貨幣符號",
+    "currencySymbolDescription": "僅用於展示使用，更改後系統中所有的貨幣單位都將發生變更",
+    "currencyUnit": "貨幣單位",
+    "currencyUnitDescription": "僅用於展示使用，更改後系統中所有的貨幣單位都將發生變更",
+    "saveSuccess": "保存成功"
+  },
+  "privacy-policy": {
+    "saveSuccess": "保存成功",
+    "title": "私隱政策"
+  },
+  "site": {
+    "customData": "自定義數據",
+    "customDataDescription": "自定義數據，用於網站的自定義數據",
+    "customHtml": "自定義HTML",
+    "customHtmlDescription": "自定義 HTML 代碼，將注入到網站 body 標籤的底部。",
+    "keywords": "關鍵字",
+    "keywordsDescription": "用於SEO目的",
+    "logo": "LOGO",
+    "logoDescription": "用於顯示需要展示 LOGO 的位置",
+    "logoPlaceholder": "請輸入 LOGO 的 URL 地址，不要以 '/' 結尾",
+    "saveSuccess": "儲存成功",
+    "siteDesc": "站點描述",
+    "siteDescDescription": "用於顯示需要展示站點描述的位置",
+    "siteDescPlaceholder": "請輸入站點描述",
+    "siteDomain": "站點域名",
+    "siteDomainDescription": "當前網站的域名地址，例如用於電子郵件中",
+    "siteDomainPlaceholder": "請輸入域名地址，多个域名請每行一個",
+    "siteName": "站點名稱",
+    "siteNameDescription": "用於顯示需要展示站點名稱的位置",
+    "siteNamePlaceholder": "請輸入站點名稱"
+  },
+  "tabs": {
+    "currency": "貨幣",
+    "site": "網站",
+    "tos": "服務條款"
+  },
+  "tos": {
+    "saveSuccess": "儲存成功",
+    "title": "服務條款"
+  }
+}

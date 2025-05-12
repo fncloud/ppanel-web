@@ -1,0 +1,10 @@
+{
+  "clientId": "Ügyfélazonosító",
+  "clientIdDescription": "Facebook alkalmazásazonosító a Facebook Fejlesztői Konzolból",
+  "clientSecret": "Ügyfél titok",
+  "clientSecretDescription": "Facebook alkalmazás titok a Facebook Fejlesztői Konzolból",
+  "enable": "Engedélyez",
+  "enableDescription": "A bekapcsolás után a felhasználók bejelentkezhetnek a Facebook-fiókjukkal",
+  "saveFailed": "Mentés sikertelen",
+  "saveSuccess": "Sikeres mentés"
+}

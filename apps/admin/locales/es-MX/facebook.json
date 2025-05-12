@@ -1,0 +1,10 @@
+{
+  "clientId": "ID de Cliente",
+  "clientIdDescription": "ID de la aplicación de Facebook desde la Consola de Desarrolladores de Facebook",
+  "clientSecret": "Secreto del Cliente",
+  "clientSecretDescription": "Secreto de la aplicación de Facebook desde la Consola de Desarrolladores de Facebook",
+  "enable": "Habilitar",
+  "enableDescription": "Después de habilitar, los usuarios pueden iniciar sesión con su cuenta de Facebook",
+  "saveFailed": "Error al guardar",
+  "saveSuccess": "Guardado exitoso"
+}

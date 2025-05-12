@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Chặn Máy Ảo",
+  "blockVirtualMachineDescription": "Khi được kích hoạt, các thiết bị sẽ không thể chạy trên máy ảo hoặc trình giả lập",
+  "communicationKey": "Khóa Giao Tiếp",
+  "communicationKeyDescription": "Khóa giao tiếp được sử dụng để bảo mật giao tiếp giữa các thiết bị và máy chủ",
+  "enable": "Kích hoạt",
+  "enableDescription": "Sau khi kích hoạt, nhiều định danh thiết bị như IMEI/IDFA/IDFV/AndroidID/Địa chỉ Mac sẽ được hỗ trợ cho việc đăng nhập và đăng ký",
+  "enableSecurity": "Kích Hoạt Mã Hóa Giao Tiếp",
+  "enableSecurityDescription": "Khi được kích hoạt, giao tiếp giữa các thiết bị và máy chủ sẽ được mã hóa",
+  "saveFailed": "Lưu không thành công",
+  "saveSuccess": "Lưu thành công",
+  "showAds": "Hiển Thị Quảng Cáo",
+  "showAdsDescription": "Khi được kích hoạt, quảng cáo sẽ được hiển thị trên các thiết bị"
+}

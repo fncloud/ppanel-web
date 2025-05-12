@@ -1,0 +1,10 @@
+{
+  "clientId": "ID du Bot",
+  "clientIdDescription": "ID du bot Telegram, vous pouvez l'obtenir auprès de @BotFather",
+  "clientSecret": "Jeton du Bot",
+  "clientSecretDescription": "Jeton du bot Telegram, vous pouvez l'obtenir auprès de @BotFather",
+  "enable": "Activer",
+  "enableDescription": "Après activation, les fonctions d'enregistrement, de connexion, de liaison et de dissociation par téléphone mobile seront activées",
+  "saveFailed": "Échec de l'enregistrement",
+  "saveSuccess": "Enregistrement réussi"
+}

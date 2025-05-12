@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Virtuális gép blokkolása",
+  "blockVirtualMachineDescription": "Ha engedélyezve van, az eszközök nem fognak tudni virtuális gépeken vagy emulátorokon futni",
+  "communicationKey": "Kommunikációs kulcs",
+  "communicationKeyDescription": "A kommunikációs kulcs a biztonságos kommunikációhoz szükséges az eszközök és a szerverek között",
+  "enable": "Engedélyezés",
+  "enableDescription": "Engedélyezés után több eszközazonosító, például IMEI/IDFA/IDFV/AndroidID/Mac-cím támogatott a bejelentkezéshez és a regisztrációhoz.",
+  "enableSecurity": "Kommunikációs titkosítás engedélyezése",
+  "enableSecurityDescription": "Ha engedélyezve van, az eszközök és a szerverek közötti kommunikáció titkosítva lesz",
+  "saveFailed": "Mentés sikertelen",
+  "saveSuccess": "Mentés sikeres",
+  "showAds": "Hirdetések megjelenítése",
+  "showAdsDescription": "Ha engedélyezve van, hirdetések fognak megjelenni az eszközökön"
+}

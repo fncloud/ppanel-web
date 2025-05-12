@@ -1,0 +1,10 @@
+{
+  "clientId": "Client ID",
+  "clientIdDescription": "Google OAuth 2.0 Client ID from Google Cloud Console",
+  "clientSecret": "Client Secret",
+  "clientSecretDescription": "Google OAuth 2.0 Client Secret from Google Cloud Console",
+  "enable": "Enable",
+  "enableDescription": "After enabling, users can sign in with their Google account",
+  "saveFailed": "Save failed",
+  "saveSuccess": "Save successful"
+}

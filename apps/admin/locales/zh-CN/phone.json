@@ -1,0 +1,32 @@
+{
+  "accessLabel": "访问",
+  "applyPlatform": "申请平台",
+  "enable": "启用",
+  "enableTip": "启用后，将启用手机注册、登录、绑定和解绑功能",
+  "endpointLabel": "端点",
+  "logs": "日志",
+  "phoneNumberLabel": "电话号码",
+  "placeholders": {
+    "template": "您的验证码是{code}，有效期为5分钟",
+    "templateCode": "输入模板代码"
+  },
+  "platform": "短信平台",
+  "platformConfigTip": "请填写提供的{key}配置",
+  "platformTip": "请选择短信平台",
+  "secretLabel": "密钥",
+  "sendFailed": "发送失败",
+  "sendSuccess": "发送成功",
+  "settings": "设置",
+  "signNameLabel": "签名名称",
+  "template": "短信模板",
+  "templateCodeLabel": "模板代码",
+  "templateTip": "请填写短信模板，保持 {code} 在中间，否则短信功能将无法正常工作",
+  "testSms": "发送测试短信",
+  "testSmsPhone": "输入电话号码",
+  "testSmsTip": "发送测试短信以验证您的配置",
+  "updateSuccess": "更新成功",
+  "whitelistAreaCode": "白名单区号",
+  "whitelistAreaCodeTip": "请输入白名单区号，例如：1, 852, 886, 888",
+  "whitelistValidation": "白名单验证",
+  "whitelistValidationTip": "启用后，仅白名单中的区号可以发送短信"
+}

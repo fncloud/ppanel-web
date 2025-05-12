@@ -1,0 +1,32 @@
+{
+  "accessLabel": "訪問",
+  "applyPlatform": "申請平台",
+  "enable": "啟用",
+  "enableTip": "啟用後，將啟用手機註冊、登入、綁定和解綁功能",
+  "endpointLabel": "端點",
+  "logs": "日誌",
+  "phoneNumberLabel": "電話號碼",
+  "placeholders": {
+    "template": "您的驗證碼是{code}，有效期為5分鐘",
+    "templateCode": "輸入模板代碼"
+  },
+  "platform": "SMS 平台",
+  "platformConfigTip": "請填寫提供的 {key} 配置",
+  "platformTip": "請選擇短信平台",
+  "secretLabel": "密鑰",
+  "sendFailed": "發送失敗",
+  "sendSuccess": "發送成功",
+  "settings": "設定",
+  "signNameLabel": "簽名名稱",
+  "template": "短信範本",
+  "templateCodeLabel": "模板代碼",
+  "templateTip": "請填寫短信模板，保持 {code} 在中間，否則短信功能將無法運作",
+  "testSms": "發送測試短信",
+  "testSmsPhone": "輸入電話號碼",
+  "testSmsTip": "發送測試短信以驗證您的配置",
+  "updateSuccess": "更新成功",
+  "whitelistAreaCode": "白名單區域代碼",
+  "whitelistAreaCodeTip": "請輸入白名單區域代碼，例如：1, 852, 886, 888",
+  "whitelistValidation": "白名單驗證",
+  "whitelistValidationTip": "啟用後，只有白名單中的區域代碼可以發送短信"
+}

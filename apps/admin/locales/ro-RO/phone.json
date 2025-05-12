@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Acces",
+  "applyPlatform": "Aplică Platformă",
+  "enable": "Activează",
+  "enableTip": "După activare, funcțiile de înregistrare, autentificare, asociere și disociere a telefonului mobil vor fi activate",
+  "endpointLabel": "Punct de acces",
+  "logs": "Jurnale",
+  "phoneNumberLabel": "Număr de telefon",
+  "placeholders": {
+    "template": "Codul dumneavoastră de verificare este {code}, valabil timp de 5 minute",
+    "templateCode": "Introduceți codul șablonului"
+  },
+  "platform": "Platformă SMS",
+  "platformConfigTip": "Vă rugăm să completați configurația {key} furnizată",
+  "platformTip": "Vă rugăm să selectați platforma SMS",
+  "secretLabel": "Secret",
+  "sendFailed": "Trimitere eșuată",
+  "sendSuccess": "Trimitere reușită",
+  "settings": "Setări",
+  "signNameLabel": "Nume semnătură",
+  "template": "Șablon SMS",
+  "templateCodeLabel": "Cod șablon",
+  "templateTip": "Vă rugăm să completați șablonul SMS, păstrați {code} în mijloc, altfel funcția SMS nu va funcționa",
+  "testSms": "Trimite SMS de test",
+  "testSmsPhone": "Introduceți numărul de telefon",
+  "testSmsTip": "Trimite un SMS de test pentru a verifica configurația ta",
+  "updateSuccess": "Actualizare reușită",
+  "whitelistAreaCode": "Coduri de zonă pe lista albă",
+  "whitelistAreaCodeTip": "Vă rugăm să introduceți codurile de zonă pe lista albă, de exemplu, 1, 852, 886, 888",
+  "whitelistValidation": "Verificare listă albă",
+  "whitelistValidationTip": "Când este activat, doar codurile de zonă din lista albă pot trimite SMS-uri"
+}

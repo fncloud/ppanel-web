@@ -1,0 +1,10 @@
+{
+  "clientId": "Kunden-ID",
+  "clientIdDescription": "Google OAuth 2.0-Client-ID aus der Google Cloud Console",
+  "clientSecret": "Client-Geheimnis",
+  "clientSecretDescription": "Google OAuth 2.0-Client-Geheimnis aus der Google Cloud Console",
+  "enable": "Aktivieren",
+  "enableDescription": "Nach der Aktivierung können sich Benutzer mit ihrem Google-Konto anmelden",
+  "saveFailed": "Speichern fehlgeschlagen",
+  "saveSuccess": "Erfolgreich gespeichert"
+}

@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Pääsy",
+  "applyPlatform": "Hae alustaa",
+  "enable": "Ota käyttöön",
+  "enableTip": "Kun otat tämän käyttöön, matkapuhelimen rekisteröinti-, kirjautumis-, sitomis- ja purkutoiminnot otetaan käyttöön",
+  "endpointLabel": "Päätepiste",
+  "logs": "Lokit",
+  "phoneNumberLabel": "Puhelinnumero",
+  "placeholders": {
+    "template": "Vahvistuskoodisi on {code}, voimassa 5 minuuttia",
+    "templateCode": "Anna mallikoodi"
+  },
+  "platform": "SMS-alusta",
+  "platformConfigTip": "Täytä annettu {key} -määritys",
+  "platformTip": "Valitse SMS-alusta",
+  "secretLabel": "Salaisuus",
+  "sendFailed": "Lähetys epäonnistui",
+  "sendSuccess": "Lähetys onnistui",
+  "settings": "Asetukset",
+  "signNameLabel": "Allekirjoitusnimi",
+  "template": "SMS-malli",
+  "templateCodeLabel": "Mallikoodi",
+  "templateTip": "Ole hyvä ja täytä SMS-malli, pidä {code} keskellä, muuten SMS-toiminto ei toimi",
+  "testSms": "Lähetä testiviesti",
+  "testSmsPhone": "Syötä puhelinnumero",
+  "testSmsTip": "Lähetä testiviesti varmistaaksesi asetuksesi",
+  "updateSuccess": "Päivitys onnistui",
+  "whitelistAreaCode": "Valkoisen listan aluekoodi",
+  "whitelistAreaCodeTip": "Syötä valkoisen listan aluekoodit, esim. 1, 852, 886, 888",
+  "whitelistValidation": "Valkoisen listan vahvistus",
+  "whitelistValidationTip": "Kun tämä on käytössä, vain valkoisen listan aluekoodit voivat lähettää SMS-viestejä"
+}

@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Client",
+  "clientIdDescription": "ID client OAuth 2.0 de Google depuis la console Google Cloud",
+  "clientSecret": "Secret Client",
+  "clientSecretDescription": "Secret client OAuth 2.0 de Google depuis la console Google Cloud",
+  "enable": "Activer",
+  "enableDescription": "Après activation, les utilisateurs peuvent se connecter avec leur compte Google",
+  "saveFailed": "Échec de l'enregistrement",
+  "saveSuccess": "Enregistrement réussi"
+}

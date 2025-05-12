@@ -1,0 +1,10 @@
+{
+  "clientId": "Identyfikator klienta",
+  "clientIdDescription": "Identyfikator aplikacji Facebook z konsoli deweloperów Facebooka",
+  "clientSecret": "Sekret klienta",
+  "clientSecretDescription": "Sekret aplikacji Facebook z konsoli deweloperów Facebooka",
+  "enable": "Włącz",
+  "enableDescription": "Po włączeniu użytkownicy mogą logować się za pomocą swojego konta na Facebooku",
+  "saveFailed": "Nie udało się zapisać",
+  "saveSuccess": "Zapisano pomyślnie"
+}

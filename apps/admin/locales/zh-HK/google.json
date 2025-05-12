@@ -1,0 +1,10 @@
+{
+  "clientId": "客戶 ID",
+  "clientIdDescription": "來自 Google Cloud Console 的 Google OAuth 2.0 客戶端 ID",
+  "clientSecret": "客戶密碼",
+  "clientSecretDescription": "來自 Google Cloud Console 的 Google OAuth 2.0 客戶端密鑰",
+  "enable": "啟用",
+  "enableDescription": "啟用後，用戶可以使用他們的 Google 帳戶登入",
+  "saveFailed": "儲存失敗",
+  "saveSuccess": "儲存成功"
+}

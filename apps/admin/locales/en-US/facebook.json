@@ -1,0 +1,10 @@
+{
+  "clientId": "Client ID",
+  "clientIdDescription": "Facebook App ID from Facebook Developers Console",
+  "clientSecret": "Client Secret",
+  "clientSecretDescription": "Facebook App Secret from Facebook Developers Console",
+  "enable": "Enable",
+  "enableDescription": "After enabling, users can sign in with their Facebook account",
+  "saveFailed": "Save failed",
+  "saveSuccess": "Save successful"
+}

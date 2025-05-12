@@ -1,0 +1,32 @@
+{
+  "accessLabel": "アクセス",
+  "applyPlatform": "プラットフォームを適用",
+  "enable": "有効にする",
+  "enableTip": "有効にすると、携帯電話の登録、ログイン、バインド、アンバインド機能が有効になります",
+  "endpointLabel": "エンドポイント",
+  "logs": "ログ",
+  "phoneNumberLabel": "電話番号",
+  "placeholders": {
+    "template": "あなたの認証コードは{code}です。5分間有効です",
+    "templateCode": "テンプレートコードを入力してください"
+  },
+  "platform": "SMSプラットフォーム",
+  "platformConfigTip": "指定された{key}の設定を入力してください",
+  "platformTip": "SMSプラットフォームを選択してください",
+  "secretLabel": "シークレット",
+  "sendFailed": "送信に失敗しました",
+  "sendSuccess": "送信成功",
+  "settings": "設定",
+  "signNameLabel": "サイン名",
+  "template": "SMSテンプレート",
+  "templateCodeLabel": "テンプレートコード",
+  "templateTip": "SMSテンプレートに記入してください。{code}を中央に保持してください。そうしないと、SMS機能は動作しません。",
+  "testSms": "テストSMSを送信",
+  "testSmsPhone": "電話番号を入力してください",
+  "testSmsTip": "設定を確認するためにテストSMSを送信する",
+  "updateSuccess": "更新が成功しました",
+  "whitelistAreaCode": "ホワイトリストエリアコード",
+  "whitelistAreaCodeTip": "ホワイトリストエリアコードを入力してください。例：1、852、886、888",
+  "whitelistValidation": "ホワイトリスト検証",
+  "whitelistValidationTip": "有効にすると、ホワイトリストにあるエリアコードのみがSMSを送信できます"
+}

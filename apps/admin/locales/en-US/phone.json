@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Access",
+  "applyPlatform": "Apply Platform",
+  "enable": "Enable",
+  "enableTip": "After enabling, mobile phone registration, login, binding, and unbinding functions will be enabled",
+  "endpointLabel": "Endpoint",
+  "logs": "Logs",
+  "phoneNumberLabel": "Phone Number",
+  "placeholders": {
+    "template": "Your verification code is {code}, valid for 5 minutes",
+    "templateCode": "Enter template code"
+  },
+  "platform": "SMS Platform",
+  "platformConfigTip": "Please fill in the provided {key} configuration",
+  "platformTip": "Please select SMS platform",
+  "secretLabel": "Secret",
+  "sendFailed": "Send Failed",
+  "sendSuccess": "Send Success",
+  "settings": "Settings",
+  "signNameLabel": "Sign Name",
+  "template": "SMS Template",
+  "templateCodeLabel": "Template Code",
+  "templateTip": "Please fill in the SMS template, keep {code} in the middle, otherwise SMS function will not work",
+  "testSms": "Send Test SMS",
+  "testSmsPhone": "Enter phone number",
+  "testSmsTip": "Send a test message to verify your configuration",
+  "updateSuccess": "Update Success",
+  "whitelistAreaCode": "Whitelist Area Code",
+  "whitelistAreaCodeTip": "Please enter whitelist area codes, e.g., 1, 852, 886, 888",
+  "whitelistValidation": "Whitelist Verification",
+  "whitelistValidationTip": "When enabled, only area codes in the whitelist can send SMS"
+}

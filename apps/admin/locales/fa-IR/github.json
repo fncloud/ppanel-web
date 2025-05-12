@@ -1,0 +1,10 @@
+{
+  "clientId": "شناسه مشتری GitHub",
+  "clientIdDescription": "شناسه مشتری از تنظیمات برنامه OAuth GitHub شما",
+  "clientSecret": "رمز مشتری GitHub",
+  "clientSecretDescription": "رمز مخفی مشتری از تنظیمات برنامه OAuth گیت‌هاب شما",
+  "enable": "فعال‌سازی احراز هویت GitHub",
+  "enableDescription": "اجازه دهید کاربران با حساب‌های GitHub خود وارد شوند",
+  "saveFailed": "ذخیره تنظیمات GitHub ناموفق بود",
+  "saveSuccess": "تنظیمات GitHub با موفقیت ذخیره شد"
+}

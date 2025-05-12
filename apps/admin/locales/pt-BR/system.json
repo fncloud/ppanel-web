@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Chave de Acesso",
+    "accessKeyDescription": "Chave de API de taxa de câmbio fornecida gratuitamente por https://exchangerate.host",
+    "currencySymbol": "Símbolo da Moeda",
+    "currencySymbolDescription": "Usado apenas para exibição, após a alteração todas as unidades monetárias no sistema serão alteradas",
+    "currencyUnit": "Unidade Monetária",
+    "currencyUnitDescription": "Usado apenas para exibição, após a alteração todas as unidades monetárias no sistema serão alteradas",
+    "saveSuccess": "Salvo com sucesso"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Salvo com Sucesso",
+    "title": "Política de Privacidade"
+  },
+  "site": {
+    "customData": "Dados Personalizados",
+    "customDataDescription": "Dados personalizados, usados para dados personalizados do site",
+    "customHtml": "HTML Personalizado",
+    "customHtmlDescription": "Código HTML personalizado a ser inserido no final da tag bodyo site.",
+    "keywords": "Palavras-chave",
+    "keywordsDescription": "Usado para fins de SEO",
+    "logo": "LOGO",
+    "logoDescription": "Usado para exibir a posição onde o LOGO precisa ser mostrado",
+    "logoPlaceholder": "Por favor, insira o URL do LOGO, não termine com '/'",
+    "saveSuccess": "Salvo com sucesso",
+    "siteDesc": "Descrição do site",
+    "siteDescDescription": "Usado para exibir a posição onde a descrição do site precisa ser mostrada",
+    "siteDescPlaceholder": "Por favor, insira a descrição do site",
+    "siteDomain": "Domínio do site",
+    "siteDomainDescription": "Endereço de domínio do site atual, por exemplo, usado em e-mails",
+    "siteDomainPlaceholder": "Por favor, insira o endereço do domínio, múltiplos domínios devem ser inseridos um por linha",
+    "siteName": "Nome do site",
+    "siteNameDescription": "Usado para exibir a posição onde o nome do site precisa ser mostrado",
+    "siteNamePlaceholder": "Por favor, insira o nome do site"
+  },
+  "tabs": {
+    "currency": "Moeda",
+    "site": "Site",
+    "tos": "Termos de Serviço"
+  },
+  "tos": {
+    "saveSuccess": "Salvo com sucesso",
+    "title": "Termos de Serviço"
+  }
+}

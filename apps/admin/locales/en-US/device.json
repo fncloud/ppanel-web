@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Block Virtual Machine",
+  "blockVirtualMachineDescription": "When enabled, devices will be prevented from running on virtual machines or emulators",
+  "communicationKey": "Communication Key",
+  "communicationKeyDescription": "Communication key is used for secure communication between devices and servers",
+  "enable": "Enable",
+  "enableDescription": "After enabling, multiple device identifiers such as IMEI/IDFA/IDFV/AndroidID/Mac address are supported for login and registration",
+  "enableSecurity": "Enable Communication Encryption",
+  "enableSecurityDescription": "When enabled, the communication between devices and servers will be encrypted",
+  "saveFailed": "Save failed",
+  "saveSuccess": "Save successful",
+  "showAds": "Show Advertisements",
+  "showAdsDescription": "When enabled, advertisements will be displayed on devices"
+}

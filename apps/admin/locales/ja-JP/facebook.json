@@ -1,0 +1,10 @@
+{
+  "clientId": "クライアントID",
+  "clientIdDescription": "Facebook開発者コンソールからのFacebookアプリID",
+  "clientSecret": "クライアントシークレット",
+  "clientSecretDescription": "Facebook開発者コンソールからのFacebookアプリシークレット",
+  "enable": "有効にする",
+  "enableDescription": "有効にすると、ユーザーはFacebookアカウントでサインインできます",
+  "saveFailed": "保存に失敗しました",
+  "saveSuccess": "保存に成功しました"
+}

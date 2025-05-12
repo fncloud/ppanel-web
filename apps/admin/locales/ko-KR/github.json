@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub 클라이언트 ID",
+  "clientIdDescription": "GitHub OAuth 애플리케이션 설정에서의 클라이언트 ID",
+  "clientSecret": "GitHub 클라이언트 비밀",
+  "clientSecretDescription": "GitHub OAuth 애플리케이션 설정에서 가져온 클라이언트 비밀",
+  "enable": "GitHub 인증 활성화",
+  "enableDescription": "사용자가 GitHub 계정으로 로그인할 수 있도록 허용",
+  "saveFailed": "GitHub 설정 저장에 실패했습니다",
+  "saveSuccess": "GitHub 설정이 성공적으로 저장되었습니다"
+}

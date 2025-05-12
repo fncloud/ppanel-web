@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Zugriff",
+  "applyPlatform": "Plattform anwenden",
+  "enable": "Aktivieren",
+  "enableTip": "Nach der Aktivierung werden die Funktionen zur Registrierung, Anmeldung, Bindung und Entbindung von Mobiltelefonen aktiviert",
+  "endpointLabel": "Endpunkt",
+  "logs": "Protokolle",
+  "phoneNumberLabel": "Telefonnummer",
+  "placeholders": {
+    "template": "Ihr Bestätigungscode ist {code}, gültig für 5 Minuten",
+    "templateCode": "Geben Sie den Vorlagen-Code ein"
+  },
+  "platform": "SMS-Plattform",
+  "platformConfigTip": "Bitte füllen Sie die bereitgestellte {key}-Konfiguration aus",
+  "platformTip": "Bitte wählen Sie die SMS-Plattform aus",
+  "secretLabel": "Geheimnis",
+  "sendFailed": "Senden fehlgeschlagen",
+  "sendSuccess": "Erfolgreich gesendet",
+  "settings": "Einstellungen",
+  "signNameLabel": "Signaturname",
+  "template": "SMS-Vorlage",
+  "templateCodeLabel": "Vorlagen-Code",
+  "templateTip": "Bitte füllen Sie die SMS-Vorlage aus, lassen Sie {code} in der Mitte, andernfalls funktioniert die SMS-Funktion nicht.",
+  "testSms": "Test-SMS senden",
+  "testSmsPhone": "Telefonnummer eingeben",
+  "testSmsTip": "Senden Sie eine Test-SMS, um Ihre Konfiguration zu überprüfen",
+  "updateSuccess": "Aktualisierung erfolgreich",
+  "whitelistAreaCode": "Whitelist Bereichscode",
+  "whitelistAreaCodeTip": "Bitte geben Sie die Whitelist Bereichscodes ein, z.B. 1, 852, 886, 888",
+  "whitelistValidation": "Whitelist Überprüfung",
+  "whitelistValidationTip": "Wenn aktiviert, können nur Bereichscodes in der Whitelist SMS senden"
+}

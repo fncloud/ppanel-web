@@ -1,0 +1,10 @@
+{
+  "clientId": "ID bota",
+  "clientIdDescription": "ID bota Telegram, możesz go uzyskać od @BotFather",
+  "clientSecret": "Token Bota",
+  "clientSecretDescription": "Token bota Telegram, który możesz uzyskać od @BotFather",
+  "enable": "Włącz",
+  "enableDescription": "Po włączeniu zostaną aktywowane funkcje rejestracji, logowania, powiązania i odwiązania telefonu komórkowego",
+  "saveFailed": "Nie udało się zapisać",
+  "saveSuccess": "Zapisano pomyślnie"
+}

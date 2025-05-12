@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Tilgang",
+  "applyPlatform": "Søk Plattform",
+  "enable": "Aktiver",
+  "enableTip": "Etter aktivering vil funksjonene for registrering, innlogging, binding og frakobling av mobiltelefon bli aktivert",
+  "endpointLabel": "Endepunkt",
+  "logs": "Logger",
+  "phoneNumberLabel": "Telefonnummer",
+  "placeholders": {
+    "template": "Din verifiseringskode er {code}, gyldig i 5 minutter",
+    "templateCode": "Skriv inn malkode"
+  },
+  "platform": "SMS-plattform",
+  "platformConfigTip": "Vennligst fyll inn den oppgitte {key} konfigurasjonen",
+  "platformTip": "Vennligst velg SMS-plattform",
+  "secretLabel": "Hemmelighet",
+  "sendFailed": "Sending mislyktes",
+  "sendSuccess": "Sendt Vellykket",
+  "settings": "Innstillinger",
+  "signNameLabel": "Signaturnavn",
+  "template": "SMS-mal",
+  "templateCodeLabel": "Malekode",
+  "templateTip": "Vennligst fyll ut SMS-malen, behold {code} i midten, ellers vil SMS-funksjonen ikke fungere",
+  "testSms": "Send test-SMS",
+  "testSmsPhone": "Skriv inn telefonnummer",
+  "testSmsTip": "Send en test-SMS for å verifisere konfigurasjonen din",
+  "updateSuccess": "Oppdatering Vellykket",
+  "whitelistAreaCode": "Hviteliste områdekode",
+  "whitelistAreaCodeTip": "Vennligst skriv inn hviteliste områdekoder, f.eks. 1, 852, 886, 888",
+  "whitelistValidation": "Hviteliste verifisering",
+  "whitelistValidationTip": "Når aktivert, kan kun områdekoder i hvitelisten sende SMS"
+}

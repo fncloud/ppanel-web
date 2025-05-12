@@ -1,0 +1,10 @@
+{
+  "clientId": "รหัสลูกค้า GitHub",
+  "clientIdDescription": "รหัสไคลเอนต์จากการตั้งค่าแอปพลิเคชัน OAuth ของ GitHub ของคุณ",
+  "clientSecret": "รหัสลับของ GitHub Client",
+  "clientSecretDescription": "รหัสลับของไคลเอนต์จากการตั้งค่าแอปพลิเคชัน GitHub OAuth ของคุณ",
+  "enable": "เปิดใช้งานการยืนยันตัวตนของ GitHub",
+  "enableDescription": "อนุญาตให้ผู้ใช้ลงชื่อเข้าใช้ด้วยบัญชี GitHub ของพวกเขา",
+  "saveFailed": "ไม่สามารถบันทึกการตั้งค่า GitHub ได้",
+  "saveSuccess": "บันทึกการตั้งค่า GitHub สำเร็จเรียบร้อยแล้ว"
+}

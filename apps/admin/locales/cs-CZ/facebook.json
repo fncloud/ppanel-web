@@ -1,0 +1,10 @@
+{
+  "clientId": "ID klienta",
+  "clientIdDescription": "ID aplikace Facebook z konzole pro vývojáře Facebooku",
+  "clientSecret": "Klientský tajný klíč",
+  "clientSecretDescription": "Facebook App Secret z Facebook Developers Console",
+  "enable": "Povolit",
+  "enableDescription": "Po povolení se uživatelé mohou přihlásit pomocí svého účtu na Facebooku",
+  "saveFailed": "Uložení se nezdařilo",
+  "saveSuccess": "Uložení bylo úspěšné"
+}

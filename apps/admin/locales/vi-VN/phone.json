@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Truy cập",
+  "applyPlatform": "Nền tảng ứng dụng",
+  "enable": "Kích hoạt",
+  "enableTip": "Sau khi kích hoạt, các chức năng đăng ký, đăng nhập, liên kết và hủy liên kết điện thoại di động sẽ được kích hoạt",
+  "endpointLabel": "Điểm cuối",
+  "logs": "Nhật ký",
+  "phoneNumberLabel": "Số Điện Thoại",
+  "placeholders": {
+    "template": "Mã xác minh của bạn là {code}, có hiệu lực trong 5 phút",
+    "templateCode": "Nhập mã mẫu"
+  },
+  "platform": "Nền tảng SMS",
+  "platformConfigTip": "Vui lòng điền vào cấu hình {key} được cung cấp",
+  "platformTip": "Vui lòng chọn nền tảng SMS",
+  "secretLabel": "Mật khẩu",
+  "sendFailed": "Gửi Thất Bại",
+  "sendSuccess": "Gửi thành công",
+  "settings": "Cài đặt",
+  "signNameLabel": "Tên ký hiệu",
+  "template": "Mẫu SMS",
+  "templateCodeLabel": "Mã mẫu",
+  "templateTip": "Vui lòng điền vào mẫu SMS, giữ {code} ở giữa, nếu không chức năng SMS sẽ không hoạt động",
+  "testSms": "Gửi SMS Thử",
+  "testSmsPhone": "Nhập số điện thoại",
+  "testSmsTip": "Gửi một tin nhắn SMS thử nghiệm để xác minh cấu hình của bạn",
+  "updateSuccess": "Cập nhật thành công",
+  "whitelistAreaCode": "Mã khu vực trong danh sách trắng",
+  "whitelistAreaCodeTip": "Vui lòng nhập mã khu vực trong danh sách trắng, ví dụ: 1, 852, 886, 888",
+  "whitelistValidation": "Xác minh danh sách trắng",
+  "whitelistValidationTip": "Khi được kích hoạt, chỉ các mã khu vực trong danh sách trắng mới có thể gửi SMS"
+}

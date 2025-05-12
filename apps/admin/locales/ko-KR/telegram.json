@@ -1,0 +1,10 @@
+{
+  "clientId": "봇 ID",
+  "clientIdDescription": "텔레그램 봇 ID, @BotFather에서 얻을 수 있습니다.",
+  "clientSecret": "봇 토큰",
+  "clientSecretDescription": "텔레그램 봇 토큰, @BotFather에서 받을 수 있습니다.",
+  "enable": "사용",
+  "enableDescription": "활성화 후, 휴대폰 등록, 로그인, 연결 및 연결 해제 기능이 활성화됩니다",
+  "saveFailed": "저장 실패",
+  "saveSuccess": "저장 성공"
+}

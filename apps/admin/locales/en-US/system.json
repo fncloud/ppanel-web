@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Access Key",
+    "accessKeyDescription": "API key provided for free by https://exchangerate.host",
+    "currencySymbol": "Currency Symbol",
+    "currencySymbolDescription": "Used for display purposes only; changing this will affect all currency units in the system",
+    "currencyUnit": "Currency Unit",
+    "currencyUnitDescription": "Used for display purposes only; changing this will affect all currency units in the system",
+    "saveSuccess": "Save Successful"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Save Successful",
+    "title": "Privacy Policy"
+  },
+  "site": {
+    "customData": "Custom Data",
+    "customDataDescription": "Custom Data, used for custom data of the site",
+    "customHtml": "Custom HTML",
+    "customHtmlDescription": "Custom HTML code to be injected into the bottom of the site's body tag.",
+    "keywords": "Keywords",
+    "keywordsDescription": "Used for SEO purposes",
+    "logo": "Logo",
+    "logoDescription": "Used for displaying the logo in designated locations",
+    "logoPlaceholder": "Enter the URL of the logo, without ending with '/'",
+    "saveSuccess": "Save Successful",
+    "siteDesc": "Site Description",
+    "siteDescDescription": "Used for displaying the site description in designated locations",
+    "siteDescPlaceholder": "Enter site description",
+    "siteDomain": "Site Domain",
+    "siteDomainDescription": "Domain address of the current website, e.g., used in emails",
+    "siteDomainPlaceholder": "Please enter the domain address. For multiple domains, please enter one per line.",
+    "siteName": "Site Name",
+    "siteNameDescription": "Used for displaying the site name in designated locations",
+    "siteNamePlaceholder": "Enter site name"
+  },
+  "tabs": {
+    "currency": "Currency",
+    "site": "Site",
+    "tos": "Terms of Service"
+  },
+  "tos": {
+    "saveSuccess": "Save Successful",
+    "title": "Terms of Service"
+  }
+}

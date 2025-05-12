@@ -1,0 +1,16 @@
+{
+  "clientId": "ID Serviciu",
+  "clientIdDescription": "ID-ul de serviciu Apple, îl puteți obține de pe Portalul pentru Dezvoltatori Apple",
+  "clientSecret": "Cheie Privată",
+  "clientSecretDescription": "Conținutul cheii private (fișier .p8) utilizat pentru autentificarea cu Apple",
+  "enable": "Activează",
+  "enableDescription": "După activare, utilizatorii se pot autentifica cu ID-ul lor Apple",
+  "keyId": "ID cheie",
+  "keyIdDescription": "ID-ul cheii tale private din Portalul Dezvoltatorului Apple",
+  "redirectUri": "URL de redirecționare",
+  "redirectUriDescription": "Vă rugăm să completați adresa API a URL-ului redirecționat după ce ați trecut cu succes de autentificarea Apple. Nu folosiți / la sfârșit.",
+  "saveFailed": "Salvarea a eșuat",
+  "saveSuccess": "Salvare reușită",
+  "teamId": "ID echipă",
+  "teamIdDescription": "ID echipă Apple Developer"
+}

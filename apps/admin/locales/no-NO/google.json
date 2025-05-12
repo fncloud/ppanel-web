@@ -1,0 +1,10 @@
+{
+  "clientId": "Klient-ID",
+  "clientIdDescription": "Google OAuth 2.0 Klient-ID fra Google Cloud Console",
+  "clientSecret": "Klienthemmelighet",
+  "clientSecretDescription": "Google OAuth 2.0-klienthemmelighet fra Google Cloud Console",
+  "enable": "Aktiver",
+  "enableDescription": "Etter aktivering kan brukere logge inn med sin Google-konto",
+  "saveFailed": "Lagring mislyktes",
+  "saveSuccess": "Lagring vellykket"
+}

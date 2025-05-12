@@ -1,0 +1,10 @@
+{
+  "clientId": "ID бота",
+  "clientIdDescription": "ID бота Telegram, вы можете получить его у @BotFather",
+  "clientSecret": "Токен бота",
+  "clientSecretDescription": "Токен бота Telegram, который вы можете получить у @BotFather",
+  "enable": "Включить",
+  "enableDescription": "После включения будут доступны функции регистрации, входа, привязки и отвязки мобильного телефона",
+  "saveFailed": "Не удалось сохранить",
+  "saveSuccess": "Сохранение успешно"
+}

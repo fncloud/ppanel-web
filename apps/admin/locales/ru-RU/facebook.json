@@ -1,0 +1,10 @@
+{
+  "clientId": "ID клиента",
+  "clientIdDescription": "ID приложения Facebook из консоли разработчиков Facebook",
+  "clientSecret": "Секрет клиента",
+  "clientSecretDescription": "Секрет приложения Facebook из консоли разработчиков Facebook",
+  "enable": "Включить",
+  "enableDescription": "После включения пользователи смогут входить в систему с помощью своей учетной записи Facebook",
+  "saveFailed": "Не удалось сохранить",
+  "saveSuccess": "Сохранение успешно"
+}

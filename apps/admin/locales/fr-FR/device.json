@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Bloquer la machine virtuelle",
+  "blockVirtualMachineDescription": "Lorsqu'il est activé, les appareils seront empêchés de fonctionner sur des machines virtuelles ou des émulateurs",
+  "communicationKey": "Clé de communication",
+  "communicationKeyDescription": "La clé de communication est utilisée pour une communication sécurisée entre les appareils et les serveurs",
+  "enable": "Activer",
+  "enableDescription": "Après activation, plusieurs identifiants de périphériques tels que IMEI/IDFA/IDFV/AndroidID/adresse Mac sont pris en charge pour la connexion et l'enregistrement",
+  "enableSecurity": "Activer le chiffrement de la communication",
+  "enableSecurityDescription": "Lorsqu'il est activé, la communication entre les appareils et les serveurs sera chiffrée",
+  "saveFailed": "Échec de l'enregistrement",
+  "saveSuccess": "Enregistrement réussi",
+  "showAds": "Afficher les publicités",
+  "showAdsDescription": "Lorsqu'il est activé, des publicités seront affichées sur les appareils"
+}

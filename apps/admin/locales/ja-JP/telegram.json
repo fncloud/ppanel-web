@@ -1,0 +1,10 @@
+{
+  "clientId": "ボットID",
+  "clientIdDescription": "TelegramボットID、@BotFatherから取得できます",
+  "clientSecret": "ボットトークン",
+  "clientSecretDescription": "Telegramボットトークンは、@BotFatherから取得できます。",
+  "enable": "有効にする",
+  "enableDescription": "有効化すると、携帯電話の登録、ログイン、バインディング、バインディング解除の機能が有効になります",
+  "saveFailed": "保存に失敗しました",
+  "saveSuccess": "保存に成功しました"
+}

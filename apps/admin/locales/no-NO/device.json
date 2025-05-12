@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Blokker virtuell maskin",
+  "blockVirtualMachineDescription": "Når aktivert, vil enheter bli forhindret fra å kjøre på virtuelle maskiner eller emulatorer",
+  "communicationKey": "Kommunikasjonsnøkkel",
+  "communicationKeyDescription": "Kommunikasjonsnøkkelen brukes for sikker kommunikasjon mellom enheter og servere",
+  "enable": "Aktiver",
+  "enableDescription": "Etter aktivering støttes flere enhetsidentifikatorer som IMEI/IDFA/IDFV/AndroidID/Mac-adresse for pålogging og registrering",
+  "enableSecurity": "Aktiver kommunikasjonskryptering",
+  "enableSecurityDescription": "Når aktivert, vil kommunikasjonen mellom enheter og servere bli kryptert",
+  "saveFailed": "Lagring mislyktes",
+  "saveSuccess": "Lagring vellykket",
+  "showAds": "Vis annonser",
+  "showAdsDescription": "Når aktivert, vil annonser bli vist på enhetene"
+}

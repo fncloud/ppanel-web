@@ -1,0 +1,10 @@
+{
+  "clientId": "Bot ID",
+  "clientIdDescription": "Telegram Bot ID, you can get it from @BotFather",
+  "clientSecret": "Bot Token",
+  "clientSecretDescription": "Telegram Bot Token, you can get it from @BotFather",
+  "enable": "Enable",
+  "enableDescription": "After enabling, mobile phone registration, login, binding, and unbinding functions will be enabled",
+  "saveFailed": "Save failed",
+  "saveSuccess": "Save successful"
+}

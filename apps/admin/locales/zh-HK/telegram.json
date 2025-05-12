@@ -1,0 +1,10 @@
+{
+  "clientId": "機械人 ID",
+  "clientIdDescription": "Telegram 機械人 ID，你可以從 @BotFather 獲取",
+  "clientSecret": "機械人令牌",
+  "clientSecretDescription": "Telegram 機械人令牌，你可以從 @BotFather 獲取",
+  "enable": "啟用",
+  "enableDescription": "啟用後，將開啟手機註冊、登入、綁定及解除綁定功能",
+  "saveFailed": "儲存失敗",
+  "saveSuccess": "儲存成功"
+}

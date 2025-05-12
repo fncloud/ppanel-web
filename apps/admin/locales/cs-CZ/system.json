@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Klíč",
+    "accessKeyDescription": "https://exchangerate.host poskytuje zdarma klíč k API směnných kurzů",
+    "currencySymbol": "Symbol měny",
+    "currencySymbolDescription": "Pouze pro zobrazení, po změně se změní všechny měnové jednotky v systému",
+    "currencyUnit": "Měnová jednotka",
+    "currencyUnitDescription": "Pouze pro zobrazení, po změně se změní všechny měnové jednotky v systému",
+    "saveSuccess": "Úspěšně uloženo"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Uložení bylo úspěšné",
+    "title": "Zásady ochrany osobních údajů"
+  },
+  "site": {
+    "customData": "Vlastní data",
+    "customDataDescription": "Vlastní data, používaná pro vlastní data webu",
+    "customHtml": "Vlastní HTML",
+    "customHtmlDescription": "Vlastní HTML kód, který bude vložen na konec tagu body na stránce.",
+    "keywords": "Klíčová slova",
+    "keywordsDescription": "Používá se pro SEO účely",
+    "logo": "LOGO",
+    "logoDescription": "Používá se k zobrazení místa, kde je potřeba zobrazit LOGO",
+    "logoPlaceholder": "Zadejte URL adresu LOGA, nekončete '/'",
+    "saveSuccess": "Uložení bylo úspěšné",
+    "siteDesc": "Popis webu",
+    "siteDescDescription": "Používá se k zobrazení místa, kde je potřeba zobrazit popis webu",
+    "siteDescPlaceholder": "Zadejte popis webu",
+    "siteDomain": "Doména webu",
+    "siteDomainDescription": "Aktuální adresa domény webu, například pro použití v e-mailech",
+    "siteDomainPlaceholder": "Zadejte adresu domény, pro více domén použijte jeden řádek pro každou",
+    "siteName": "Název webu",
+    "siteNameDescription": "Používá se k zobrazení místa, kde je potřeba zobrazit název webu",
+    "siteNamePlaceholder": "Zadejte název webu"
+  },
+  "tabs": {
+    "currency": "Měna",
+    "site": "Stránka",
+    "tos": "Podmínky služby"
+  },
+  "tos": {
+    "saveSuccess": "Uložení bylo úspěšné",
+    "title": "Podmínky služby"
+  }
+}

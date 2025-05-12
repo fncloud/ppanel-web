@@ -1,0 +1,10 @@
+{
+  "clientId": "ID do Cliente do GitHub",
+  "clientIdDescription": "O ID do cliente nas configurações do aplicativo OAuth do GitHub",
+  "clientSecret": "Segredo do Cliente do GitHub",
+  "clientSecretDescription": "O segredo do cliente das configurações do aplicativo OAuth do seu GitHub",
+  "enable": "Ativar Autenticação do GitHub",
+  "enableDescription": "Permitir que os usuários façam login com suas contas do GitHub",
+  "saveFailed": "Falha ao salvar as configurações do GitHub",
+  "saveSuccess": "Configurações do GitHub salvas com sucesso"
+}

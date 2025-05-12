@@ -1,0 +1,16 @@
+{
+  "clientId": "服务 ID",
+  "clientIdDescription": "Apple 服务 ID，您可以从 Apple 开发者门户获取",
+  "clientSecret": "私钥",
+  "clientSecretDescription": "用于与 Apple 进行身份验证的私钥内容（.p8 文件）",
+  "enable": "启用",
+  "enableDescription": "启用后，用户可以使用他们的 Apple ID 登录",
+  "keyId": "密钥 ID",
+  "keyIdDescription": "您在 Apple 开发者门户中的私钥 ID",
+  "redirectUri": "重定向 URL",
+  "redirectUriDescription": "请填写成功通过 Apple 认证后重定向的 URL 的 API 地址。请勿在末尾使用 /。",
+  "saveFailed": "保存失败",
+  "saveSuccess": "保存成功",
+  "teamId": "团队 ID",
+  "teamIdDescription": "Apple 开发者团队 ID"
+}

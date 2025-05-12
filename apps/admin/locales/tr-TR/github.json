@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub İstemci Kimliği",
+  "clientIdDescription": "GitHub OAuth uygulama ayarlarınızdaki istemci kimliği",
+  "clientSecret": "GitHub İstemci Sırrı",
+  "clientSecretDescription": "GitHub OAuth uygulama ayarlarından gelen istemci sırrı",
+  "enable": "GitHub Kimlik Doğrulamayı Etkinleştir",
+  "enableDescription": "Kullanıcıların GitHub hesaplarıyla oturum açmalarına izin ver",
+  "saveFailed": "GitHub ayarlarını kaydetme başarısız oldu",
+  "saveSuccess": "GitHub ayarları başarıyla kaydedildi"
+}

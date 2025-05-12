@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Clave de acceso",
+    "accessKeyDescription": "Clave API de tasas de cambio proporcionada gratuitamente por https://exchangerate.host",
+    "currencySymbol": "Símbolo de moneda",
+    "currencySymbolDescription": "Solo para uso de visualización, al cambiarlo se modificarán todas las unidades monetarias en el sistema",
+    "currencyUnit": "Unidad monetaria",
+    "currencyUnitDescription": "Solo para uso de visualización, al cambiarlo se modificarán todas las unidades monetarias en el sistema",
+    "saveSuccess": "Guardado exitosamente"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Guardado con éxito",
+    "title": "Política de Privacidad"
+  },
+  "site": {
+    "customData": "Datos Personalizados",
+    "customDataDescription": "Datos Personalizados, utilizados para datos personalizados del sitio",
+    "customHtml": "HTML personalizado",
+    "customHtmlDescription": "Código HTML personalizado que se inyectará en la parte inferior de la etiqueta body del sitio.",
+    "keywords": "Palabras clave",
+    "keywordsDescription": "Utilizado para fines de SEO",
+    "logo": "LOGO",
+    "logoDescription": "Se utiliza para mostrar la ubicación donde se debe mostrar el LOGO",
+    "logoPlaceholder": "Por favor, introduce la URL del LOGO, no termines con '/'",
+    "saveSuccess": "Guardado exitosamente",
+    "siteDesc": "Descripción del sitio",
+    "siteDescDescription": "Se utiliza para mostrar la ubicación donde se debe mostrar la descripción del sitio",
+    "siteDescPlaceholder": "Por favor, introduce la descripción del sitio",
+    "siteDomain": "Dominio del sitio",
+    "siteDomainDescription": "La dirección de dominio actual del sitio web, por ejemplo, para usar en correos electrónicos",
+    "siteDomainPlaceholder": "Por favor, introduce la dirección del dominio, varios dominios deben estar en líneas separadas",
+    "siteName": "Nombre del sitio",
+    "siteNameDescription": "Se utiliza para mostrar la ubicación donde se debe mostrar el nombre del sitio",
+    "siteNamePlaceholder": "Por favor, introduce el nombre del sitio"
+  },
+  "tabs": {
+    "currency": "Moneda",
+    "site": "Sitio",
+    "tos": "Términos de servicio"
+  },
+  "tos": {
+    "saveSuccess": "Guardado exitosamente",
+    "title": "Términos del servicio"
+  }
+}

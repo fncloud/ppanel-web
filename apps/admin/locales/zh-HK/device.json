@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "阻止虛擬機",
+  "blockVirtualMachineDescription": "啟用後，設備將無法在虛擬機或模擬器上運行",
+  "communicationKey": "通訊密鑰",
+  "communicationKeyDescription": "通訊密鑰用於設備與伺服器之間的安全通訊",
+  "enable": "啟用",
+  "enableDescription": "啟用後，支持多個設備識別碼，例如 IMEI/IDFA/IDFV/AndroidID/Mac 地址，用於登錄和註冊",
+  "enableSecurity": "啟用通訊加密",
+  "enableSecurityDescription": "啟用後，設備與伺服器之間的通訊將被加密",
+  "saveFailed": "保存失敗",
+  "saveSuccess": "保存成功",
+  "showAds": "顯示廣告",
+  "showAdsDescription": "啟用後，設備上將顯示廣告"
+}

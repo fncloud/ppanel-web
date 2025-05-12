@@ -1,0 +1,16 @@
+{
+  "clientId": "Hizmet Kimliği",
+  "clientIdDescription": "Apple Servis Kimliği, Apple Geliştirici Portalı'ndan alabilirsiniz",
+  "clientSecret": "Özel Anahtar",
+  "clientSecretDescription": "Apple ile kimlik doğrulama için kullanılan özel anahtar içeriği (.p8 dosyası)",
+  "enable": "Etkinleştir",
+  "enableDescription": "Etkinleştirildikten sonra, kullanıcılar Apple Kimlikleri ile oturum açabilir",
+  "keyId": "Anahtar Kimliği",
+  "keyIdDescription": "Apple Geliştirici Portalı'ndaki özel anahtarınızın kimliği",
+  "redirectUri": "Yeniden Yönlendirme URL'si",
+  "redirectUriDescription": "Lütfen Apple kimlik doğrulamasını başarıyla geçtikten sonra yönlendirilen URL'nin API adresini doldurun. Sonuna / eklemeyin.",
+  "saveFailed": "Kaydetme başarısız oldu",
+  "saveSuccess": "Kaydetme başarılı",
+  "teamId": "Takım Kimliği",
+  "teamIdDescription": "Apple Geliştirici Takım Kimliği"
+}

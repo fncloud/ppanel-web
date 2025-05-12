@@ -1,0 +1,16 @@
+{
+  "clientId": "ID Dịch vụ",
+  "clientIdDescription": "Apple Service ID, bạn có thể lấy nó từ Cổng thông tin Nhà phát triển Apple",
+  "clientSecret": "Khóa Riêng",
+  "clientSecretDescription": "Nội dung khóa riêng tư (.p8 file) được sử dụng để xác thực với Apple",
+  "enable": "Kích hoạt",
+  "enableDescription": "Sau khi kích hoạt, người dùng có thể đăng nhập bằng ID Apple của họ",
+  "keyId": "Mã khóa",
+  "keyIdDescription": "ID của khóa riêng tư của bạn từ Cổng thông tin Nhà phát triển Apple",
+  "redirectUri": "URL chuyển hướng",
+  "redirectUriDescription": "Vui lòng điền địa chỉ API của URL được chuyển hướng sau khi xác thực Apple thành công. Không sử dụng / ở cuối.",
+  "saveFailed": "Lưu thất bại",
+  "saveSuccess": "Lưu thành công",
+  "teamId": "ID Đội",
+  "teamIdDescription": "ID Nhóm Nhà Phát Triển Apple"
+}

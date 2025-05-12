@@ -1,0 +1,10 @@
+{
+  "clientId": "ID del Bot",
+  "clientIdDescription": "ID del Bot de Telegram, lo puedes obtener de @BotFather",
+  "clientSecret": "Token del Bot",
+  "clientSecretDescription": "Token del Bot de Telegram, lo puedes obtener de @BotFather",
+  "enable": "Habilitar",
+  "enableDescription": "Después de habilitar, se activarán las funciones de registro, inicio de sesión, vinculación y desvinculación de teléfonos móviles",
+  "saveFailed": "Error al guardar",
+  "saveSuccess": "Guardado exitoso"
+}

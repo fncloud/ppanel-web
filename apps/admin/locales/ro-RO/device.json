@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Blochează Mașina Virtuală",
+  "blockVirtualMachineDescription": "Când este activat, dispozitivele vor fi împiedicate să ruleze pe mașini virtuale sau emulatoare",
+  "communicationKey": "Cheia de Comunicare",
+  "communicationKeyDescription": "Cheia de comunicare este utilizată pentru comunicarea securizată între dispozitive și servere",
+  "enable": "Activare",
+  "enableDescription": "După activare, sunt acceptate mai multe identificatoare de dispozitive, cum ar fi IMEI/IDFA/IDFV/AndroidID/adresa Mac pentru autentificare și înregistrare.",
+  "enableSecurity": "Activează Criptarea Comunicației",
+  "enableSecurityDescription": "Când este activat, comunicația între dispozitive și servere va fi criptată",
+  "saveFailed": "Salvarea a eșuat",
+  "saveSuccess": "Salvarea a fost reușită",
+  "showAds": "Afișează Reclame",
+  "showAdsDescription": "Când este activat, reclamele vor fi afișate pe dispozitive"
+}

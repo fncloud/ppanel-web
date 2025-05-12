@@ -1,0 +1,16 @@
+{
+  "clientId": "Service ID",
+  "clientIdDescription": "Apple Service ID, you can get it from Apple Developer Portal",
+  "clientSecret": "Private Key",
+  "clientSecretDescription": "The private key content (.p8 file) used for authentication with Apple",
+  "enable": "Enable",
+  "enableDescription": "After enabling, users can sign in with their Apple ID",
+  "keyId": "Key ID",
+  "keyIdDescription": "The ID of your private key from Apple Developer Portal",
+  "redirectUri": "Redirect URL",
+  "redirectUriDescription": "Please fill in the API address of the redirected URL after successfully passing Apple authentication. Do not use / at the end.",
+  "saveFailed": "Save failed",
+  "saveSuccess": "Save successful",
+  "teamId": "Team ID",
+  "teamIdDescription": "Apple Developer Team ID"
+}

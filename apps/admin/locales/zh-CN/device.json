@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "阻止虚拟机",
+  "blockVirtualMachineDescription": "启用后，将阻止设备在虚拟机或模拟器上运行",
+  "communicationKey": "通信密钥",
+  "communicationKeyDescription": "通信密钥用于设备与服务器之间的安全通信",
+  "enable": "启用",
+  "enableDescription": "启用后，支持使用多个设备标识符，如 IMEI/IDFA/IDFV/AndroidID/Mac 地址进行登录和注册",
+  "enableSecurity": "启用通信加密",
+  "enableSecurityDescription": "启用后，设备与服务器之间的通信将被加密",
+  "saveFailed": "保存失败",
+  "saveSuccess": "保存成功",
+  "showAds": "显示广告",
+  "showAdsDescription": "启用后，设备上将显示广告"
+}

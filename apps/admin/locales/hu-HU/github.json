@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub kliensazonosító",
+  "clientIdDescription": "Az ügyfélazonosító a GitHub OAuth alkalmazás beállításaiból",
+  "clientSecret": "GitHub kliens titok",
+  "clientSecretDescription": "A kliens titkos kulcsa a GitHub OAuth alkalmazás beállításaiból",
+  "enable": "GitHub-hitelesítés engedélyezése",
+  "enableDescription": "Engedélyezze a felhasználóknak, hogy GitHub fiókjukkal jelentkezzenek be",
+  "saveFailed": "Nem sikerült menteni a GitHub beállításokat",
+  "saveSuccess": "A GitHub beállítások sikeresen mentve"
+}

@@ -1,0 +1,16 @@
+{
+  "clientId": "Identyfikator usługi",
+  "clientIdDescription": "Identyfikator usługi Apple, który można uzyskać z Apple Developer Portal",
+  "clientSecret": "Klucz prywatny",
+  "clientSecretDescription": "Treść klucza prywatnego (plik .p8) używana do uwierzytelniania z Apple",
+  "enable": "Włącz",
+  "enableDescription": "Po włączeniu użytkownicy mogą logować się za pomocą swojego Apple ID",
+  "keyId": "Identyfikator klucza",
+  "keyIdDescription": "Identyfikator Twojego klucza prywatnego z Apple Developer Portal",
+  "redirectUri": "Adres URL przekierowania",
+  "redirectUriDescription": "Proszę wypełnić adres API przekierowanego URL po pomyślnym przejściu autoryzacji Apple. Nie używaj / na końcu.",
+  "saveFailed": "Zapis nie powiódł się",
+  "saveSuccess": "Zapisano pomyślnie",
+  "teamId": "Identyfikator zespołu",
+  "teamIdDescription": "Identyfikator zespołu deweloperskiego Apple"
+}

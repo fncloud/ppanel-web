@@ -1,0 +1,32 @@
+{
+  "accessLabel": "การเข้าถึง",
+  "applyPlatform": "สมัครแพลตฟอร์ม",
+  "enable": "เปิดใช้งาน",
+  "enableTip": "หลังจากเปิดใช้งานแล้ว ฟังก์ชันการลงทะเบียน การเข้าสู่ระบบ การผูก และการยกเลิกการผูกโทรศัพท์มือถือจะถูกเปิดใช้งาน",
+  "endpointLabel": "จุดสิ้นสุด",
+  "logs": "บันทึก",
+  "phoneNumberLabel": "หมายเลขโทรศัพท์",
+  "placeholders": {
+    "template": "รหัสยืนยันของคุณคือ {code} ใช้ได้ภายใน 5 นาที",
+    "templateCode": "กรอกรหัสเทมเพลต"
+  },
+  "platform": "แพลตฟอร์ม SMS",
+  "platformConfigTip": "กรุณากรอกการตั้งค่าที่ให้ไว้ {key}",
+  "platformTip": "กรุณาเลือกแพลตฟอร์ม SMS",
+  "secretLabel": "ความลับ",
+  "sendFailed": "ส่งไม่สำเร็จ",
+  "sendSuccess": "ส่งสำเร็จ",
+  "settings": "การตั้งค่า",
+  "signNameLabel": "ชื่อผู้ลงนาม",
+  "template": "เทมเพลต SMS",
+  "templateCodeLabel": "รหัสแม่แบบ",
+  "templateTip": "กรุณากรอกเทมเพลต SMS โดยให้ {code} อยู่ตรงกลาง มิฉะนั้นฟังก์ชัน SMS จะไม่ทำงาน",
+  "testSms": "ส่ง SMS ทดสอบ",
+  "testSmsPhone": "กรุณาใส่หมายเลขโทรศัพท์",
+  "testSmsTip": "ส่ง SMS ทดสอบเพื่อตรวจสอบการตั้งค่าของคุณ",
+  "updateSuccess": "อัปเดตสำเร็จ",
+  "whitelistAreaCode": "รหัสพื้นที่ในรายการอนุญาต",
+  "whitelistAreaCodeTip": "กรุณาใส่รหัสพื้นที่ในรายการอนุญาต เช่น 1, 852, 886, 888",
+  "whitelistValidation": "การตรวจสอบรายการอนุญาต",
+  "whitelistValidationTip": "เมื่อเปิดใช้งาน จะอนุญาตให้ส่ง SMS เฉพาะรหัสพื้นที่ในรายการอนุญาตเท่านั้น"
+}

@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub-asiakastunnus",
+  "clientIdDescription": "Asiakkaan tunnus GitHub OAuth -sovelluksesi asetuksista",
+  "clientSecret": "GitHub-asiakassalasana",
+  "clientSecretDescription": "Asiakassalasana GitHub OAuth -sovelluksesi asetuksista",
+  "enable": "Ota käyttöön GitHub-autentikointi",
+  "enableDescription": "Salli käyttäjien kirjautua sisään GitHub-tileillään",
+  "saveFailed": "GitHub-asetusten tallentaminen epäonnistui",
+  "saveSuccess": "GitHub-asetukset tallennettu onnistuneesti"
+}

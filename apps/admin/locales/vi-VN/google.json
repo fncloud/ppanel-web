@@ -1,0 +1,10 @@
+{
+  "clientId": "ID Khách hàng",
+  "clientIdDescription": "ID Khách hàng OAuth 2.0 của Google từ Google Cloud Console",
+  "clientSecret": "Bí mật Khách hàng",
+  "clientSecretDescription": "Mã bí mật OAuth 2.0 của Google từ Bảng điều khiển Google Cloud",
+  "enable": "Kích hoạt",
+  "enableDescription": "Sau khi kích hoạt, người dùng có thể đăng nhập bằng tài khoản Google của họ",
+  "saveFailed": "Lưu thất bại",
+  "saveSuccess": "Lưu thành công"
+}

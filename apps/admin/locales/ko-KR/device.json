@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "가상 머신 차단",
+  "blockVirtualMachineDescription": "활성화되면, 장치가 가상 머신이나 에뮬레이터에서 실행되는 것을 방지합니다.",
+  "communicationKey": "통신 키",
+  "communicationKeyDescription": "통신 키는 장치와 서버 간의 안전한 통신을 위해 사용됩니다.",
+  "enable": "활성화",
+  "enableDescription": "활성화 후 IMEI/IDFA/IDFV/AndroidID/Mac 주소와 같은 여러 장치 식별자를 사용하여 로그인 및 등록할 수 있습니다.",
+  "enableSecurity": "통신 암호화 활성화",
+  "enableSecurityDescription": "활성화되면, 장치와 서버 간의 통신이 암호화됩니다.",
+  "saveFailed": "저장 실패",
+  "saveSuccess": "저장 성공",
+  "showAds": "광고 표시",
+  "showAdsDescription": "활성화되면, 장치에 광고가 표시됩니다."
+}

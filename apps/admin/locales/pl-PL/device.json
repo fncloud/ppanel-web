@@ -1,0 +1,14 @@
+{
+  "blockVirtualMachine": "Zablokuj maszynę wirtualną",
+  "blockVirtualMachineDescription": "Po włączeniu urządzenia nie będą mogły działać na maszynach wirtualnych lub emulatorach",
+  "communicationKey": "Klucz komunikacji",
+  "communicationKeyDescription": "Klucz komunikacji jest używany do bezpiecznej komunikacji między urządzeniami a serwerami",
+  "enable": "Włącz",
+  "enableDescription": "Po włączeniu obsługiwane są różne identyfikatory urządzeń, takie jak IMEI/IDFA/IDFV/AndroidID/adres MAC do logowania i rejestracji",
+  "enableSecurity": "Włącz szyfrowanie komunikacji",
+  "enableSecurityDescription": "Po włączeniu komunikacja między urządzeniami a serwerami będzie szyfrowana",
+  "saveFailed": "Zapis nie powiódł się",
+  "saveSuccess": "Zapisano pomyślnie",
+  "showAds": "Wyświetl reklamy",
+  "showAdsDescription": "Po włączeniu na urządzeniach będą wyświetlane reklamy"
+}

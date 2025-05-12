@@ -1,0 +1,10 @@
+{
+  "clientId": "बॉट आईडी",
+  "clientIdDescription": "टेलीग्राम बॉट आईडी, जिसे आप @BotFather से प्राप्त कर सकते हैं",
+  "clientSecret": "बॉट टोकन",
+  "clientSecretDescription": "टेलीग्राम बॉट टोकन, जिसे आप @BotFather से प्राप्त कर सकते हैं",
+  "enable": "सक्षम करें",
+  "enableDescription": "सक्षम करने के बाद, मोबाइल फोन पंजीकरण, लॉगिन, बाइंडिंग, और अनबाइंडिंग कार्यक्षमताएँ सक्षम हो जाएँगी",
+  "saveFailed": "सहेजना विफल हुआ",
+  "saveSuccess": "सहेजा सफल"
+}

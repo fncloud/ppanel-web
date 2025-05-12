@@ -1,0 +1,16 @@
+{
+  "clientId": "서비스 ID",
+  "clientIdDescription": "Apple 서비스 ID, Apple 개발자 포털에서 얻을 수 있습니다",
+  "clientSecret": "비밀 키",
+  "clientSecretDescription": "Apple과의 인증에 사용되는 비공개 키 내용(.p8 파일)",
+  "enable": "활성화",
+  "enableDescription": "활성화 후 사용자는 Apple ID로 로그인할 수 있습니다",
+  "keyId": "키 ID",
+  "keyIdDescription": "Apple 개발자 포털에서의 개인 키 ID",
+  "redirectUri": "리다이렉트 URL",
+  "redirectUriDescription": "Apple 인증을 성공적으로 통과한 후 리디렉션된 URL의 API 주소를 입력해 주세요. 끝에 /를 사용하지 마세요.",
+  "saveFailed": "저장 실패",
+  "saveSuccess": "저장 성공",
+  "teamId": "팀 ID",
+  "teamIdDescription": "Apple 개발자 팀 ID"
+}

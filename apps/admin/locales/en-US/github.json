@@ -1,0 +1,10 @@
+{
+  "clientId": "GitHub Client ID",
+  "clientIdDescription": "The client ID from your GitHub OAuth application settings",
+  "clientSecret": "GitHub Client Secret",
+  "clientSecretDescription": "The client secret from your GitHub OAuth application settings",
+  "enable": "Enable GitHub Authentication",
+  "enableDescription": "Allow users to sign in with their GitHub accounts",
+  "saveFailed": "Failed to save GitHub settings",
+  "saveSuccess": "GitHub settings saved successfully"
+}

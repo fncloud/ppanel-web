@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "Zugangsschlüssel",
+    "accessKeyDescription": "https://exchangerate.host bietet kostenlos bereitgestellte API-Schlüssel für Wechselkurse an",
+    "currencySymbol": "Währungssymbol",
+    "currencySymbolDescription": "Nur zur Anzeige verwendet, nach der Änderung werden alle Währungseinheiten im System geändert",
+    "currencyUnit": "Währungseinheit",
+    "currencyUnitDescription": "Nur zur Anzeige verwendet, nach der Änderung werden alle Währungseinheiten im System geändert",
+    "saveSuccess": "Erfolgreich gespeichert"
+  },
+  "privacy-policy": {
+    "saveSuccess": "Erfolgreich gespeichert",
+    "title": "Datenschutzrichtlinie"
+  },
+  "site": {
+    "customData": "Benutzerdefinierte Daten",
+    "customDataDescription": "Benutzerdefinierte Daten, die für benutzerdefinierte Daten der Website verwendet werden",
+    "customHtml": "Benutzerdefiniertes HTML",
+    "customHtmlDescription": "Benutzerdefinierter HTML-Code, der am Ende des body-Tags der Seite eingefügt werden soll.",
+    "keywords": "Schlüsselwörter",
+    "keywordsDescription": "Für SEO-Zwecke verwendet",
+    "logo": "LOGO",
+    "logoDescription": "Position zur Anzeige des LOGOs",
+    "logoPlaceholder": "Bitte geben Sie die URL-Adresse des LOGOs ein, ohne '/' am Ende",
+    "saveSuccess": "Erfolgreich gespeichert",
+    "siteDesc": "Seitenbeschreibung",
+    "siteDescDescription": "Position zur Anzeige der Seitenbeschreibung",
+    "siteDescPlaceholder": "Bitte geben Sie die Seitenbeschreibung ein",
+    "siteDomain": "Seitendomäne",
+    "siteDomainDescription": "Die aktuelle Domain-Adresse der Website, z.B. für E-Mails",
+    "siteDomainPlaceholder": "Bitte geben Sie die Domain-Adresse ein, bei mehreren Domains bitte eine pro Zeile",
+    "siteName": "Seitenname",
+    "siteNameDescription": "Position zur Anzeige des Seitennamens",
+    "siteNamePlaceholder": "Bitte geben Sie den Seitennamen ein"
+  },
+  "tabs": {
+    "currency": "Währung",
+    "site": "Seite",
+    "tos": "Nutzungsbedingungen"
+  },
+  "tos": {
+    "saveSuccess": "Erfolgreich gespeichert",
+    "title": "Nutzungsbedingungen"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "clientId": "クライアントID",
+  "clientIdDescription": "Google Cloud ConsoleからのGoogle OAuth 2.0クライアントID",
+  "clientSecret": "クライアントシークレット",
+  "clientSecretDescription": "Google Cloud ConsoleからのGoogle OAuth 2.0クライアントシークレット",
+  "enable": "有効にする",
+  "enableDescription": "有効にすると、ユーザーはGoogleアカウントでサインインできます",
+  "saveFailed": "保存に失敗しました",
+  "saveSuccess": "保存に成功しました"
+}

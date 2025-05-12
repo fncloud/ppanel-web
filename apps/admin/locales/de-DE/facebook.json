@@ -1,0 +1,10 @@
+{
+  "clientId": "Kunden-ID",
+  "clientIdDescription": "Facebook-App-ID aus der Facebook-Entwicklerkonsole",
+  "clientSecret": "Client-Geheimnis",
+  "clientSecretDescription": "Facebook-App-Geheimnis aus der Facebook-Entwicklerkonsole",
+  "enable": "Aktivieren",
+  "enableDescription": "Nach der Aktivierung können sich Benutzer mit ihrem Facebook-Konto anmelden",
+  "saveFailed": "Speichern fehlgeschlagen",
+  "saveSuccess": "Erfolgreich gespeichert"
+}

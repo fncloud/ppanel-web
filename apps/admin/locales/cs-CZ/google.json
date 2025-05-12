@@ -1,0 +1,10 @@
+{
+  "clientId": "ID klienta",
+  "clientIdDescription": "ID klienta Google OAuth 2.0 z Google Cloud Console",
+  "clientSecret": "Klientský tajný klíč",
+  "clientSecretDescription": "Tajný klíč klienta Google OAuth 2.0 z Google Cloud Console",
+  "enable": "Povolit",
+  "enableDescription": "Po povolení se uživatelé mohou přihlásit pomocí svého účtu Google",
+  "saveFailed": "Uložení se nezdařilo",
+  "saveSuccess": "Uložení bylo úspěšné"
+}

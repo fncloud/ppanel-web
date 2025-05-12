@@ -1,0 +1,10 @@
+{
+  "clientId": "Identyfikator klienta",
+  "clientIdDescription": "Identyfikator klienta Google OAuth 2.0 z konsoli Google Cloud",
+  "clientSecret": "Sekret klienta",
+  "clientSecretDescription": "Tajny klucz klienta Google OAuth 2.0 z konsoli Google Cloud",
+  "enable": "Włącz",
+  "enableDescription": "Po włączeniu użytkownicy mogą logować się za pomocą swojego konta Google",
+  "saveFailed": "Nie udało się zapisać",
+  "saveSuccess": "Zapisano pomyślnie"
+}

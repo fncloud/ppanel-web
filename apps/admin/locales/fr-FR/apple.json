@@ -1,0 +1,16 @@
+{
+  "clientId": "ID de service",
+  "clientIdDescription": "ID de service Apple, vous pouvez l'obtenir depuis le portail des développeurs Apple",
+  "clientSecret": "Clé Privée",
+  "clientSecretDescription": "Le contenu de la clé privée (fichier .p8) utilisé pour l'authentification avec Apple",
+  "enable": "Activer",
+  "enableDescription": "Après activation, les utilisateurs peuvent se connecter avec leur identifiant Apple",
+  "keyId": "ID de clé",
+  "keyIdDescription": "L'ID de votre clé privée depuis le portail des développeurs Apple",
+  "redirectUri": "URL de redirection",
+  "redirectUriDescription": "Veuillez remplir l'adresse API de l'URL redirigée après avoir réussi l'authentification Apple. Ne pas utiliser / à la fin.",
+  "saveFailed": "Échec de l'enregistrement",
+  "saveSuccess": "Enregistrement réussi",
+  "teamId": "ID de l'équipe",
+  "teamIdDescription": "ID d'équipe du développeur Apple"
+}

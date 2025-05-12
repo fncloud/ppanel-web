@@ -1,0 +1,10 @@
+{
+  "clientId": "Bot-ID",
+  "clientIdDescription": "Telegram-Bot-ID, die Sie von @BotFather erhalten können",
+  "clientSecret": "Bot-Token",
+  "clientSecretDescription": "Telegram-Bot-Token, den Sie von @BotFather erhalten können",
+  "enable": "Aktivieren",
+  "enableDescription": "Nach der Aktivierung werden die Funktionen zur Registrierung, Anmeldung, Bindung und Entbindung von Mobiltelefonen aktiviert",
+  "saveFailed": "Speichern fehlgeschlagen",
+  "saveSuccess": "Erfolgreich gespeichert"
+}

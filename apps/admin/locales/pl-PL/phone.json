@@ -1,0 +1,32 @@
+{
+  "accessLabel": "Dostęp",
+  "applyPlatform": "Zastosuj Platformę",
+  "enable": "Włącz",
+  "enableTip": "Po włączeniu zostaną aktywowane funkcje rejestracji, logowania, wiązania i odwiązywania telefonu komórkowego",
+  "endpointLabel": "Punkt końcowy",
+  "logs": "Dzienniki",
+  "phoneNumberLabel": "Numer telefonu",
+  "placeholders": {
+    "template": "Twój kod weryfikacyjny to {code}, ważny przez 5 minut",
+    "templateCode": "Wprowadź kod szablonu"
+  },
+  "platform": "Platforma SMS",
+  "platformConfigTip": "Proszę wypełnić podaną konfigurację {key}",
+  "platformTip": "Proszę wybrać platformę SMS",
+  "secretLabel": "Sekret",
+  "sendFailed": "Wysyłanie nie powiodło się",
+  "sendSuccess": "Wysłano pomyślnie",
+  "settings": "Ustawienia",
+  "signNameLabel": "Nazwa podpisu",
+  "template": "Szablon SMS",
+  "templateCodeLabel": "Kod szablonu",
+  "templateTip": "Proszę wypełnić szablon SMS, zachowując {code} w środku, w przeciwnym razie funkcja SMS nie będzie działać",
+  "testSms": "Wyślij testowy SMS",
+  "testSmsPhone": "Wprowadź numer telefonu",
+  "testSmsTip": "Wyślij testowy SMS, aby zweryfikować swoją konfigurację",
+  "updateSuccess": "Aktualizacja zakończona pomyślnie",
+  "whitelistAreaCode": "Kod obszaru białej listy",
+  "whitelistAreaCodeTip": "Proszę wprowadzić kody obszarów białej listy, np. 1, 852, 886, 888",
+  "whitelistValidation": "Weryfikacja białej listy",
+  "whitelistValidationTip": "Po włączeniu, tylko kody obszarów na białej liście mogą wysyłać SMS"
+}

@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "アクセスキー",
+    "accessKeyDescription": "https://exchangerate.host が無料で提供する為替レートAPIキー",
+    "currencySymbol": "通貨記号",
+    "currencySymbolDescription": "表示のみに使用され、変更するとシステム内のすべての通貨単位が変更されます",
+    "currencyUnit": "通貨単位",
+    "currencyUnitDescription": "表示のみに使用され、変更するとシステム内のすべての通貨単位が変更されます",
+    "saveSuccess": "保存に成功しました"
+  },
+  "privacy-policy": {
+    "saveSuccess": "保存に成功しました",
+    "title": "プライバシーポリシー"
+  },
+  "site": {
+    "customData": "カスタムデータ",
+    "customDataDescription": "サイトのカスタムデータに使用されるカスタムデータ",
+    "customHtml": "カスタムHTML",
+    "customHtmlDescription": "サイトの body タグの下部に挿入されるカスタム HTML コード。",
+    "keywords": "キーワード",
+    "keywordsDescription": "SEO目的で使用されます",
+    "logo": "LOGO",
+    "logoDescription": "LOGOを表示する必要がある場所に使用されます",
+    "logoPlaceholder": "LOGOのURLアドレスを入力してください。末尾に'/'を付けないでください",
+    "saveSuccess": "保存に成功しました",
+    "siteDesc": "サイトの説明",
+    "siteDescDescription": "サイトの説明を表示する必要がある場所に使用されます",
+    "siteDescPlaceholder": "サイトの説明を入力してください",
+    "siteDomain": "サイトのドメイン",
+    "siteDomainDescription": "現在のウェブサイトのドメインアドレス。例えば、電子メールで使用されます",
+    "siteDomainPlaceholder": "ドメインアドレスを入力してください。複数のドメインは1行に1つずつ入力してください",
+    "siteName": "サイト名",
+    "siteNameDescription": "サイト名を表示する必要がある場所に使用されます",
+    "siteNamePlaceholder": "サイト名を入力してください"
+  },
+  "tabs": {
+    "currency": "通貨",
+    "site": "サイト",
+    "tos": "利用規約"
+  },
+  "tos": {
+    "saveSuccess": "保存成功",
+    "title": "利用規約"
+  }
+}

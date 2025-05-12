@@ -1,0 +1,16 @@
+{
+  "clientId": "ID služby",
+  "clientIdDescription": "Apple Service ID, který můžete získat z Apple Developer Portálu",
+  "clientSecret": "Soukromý klíč",
+  "clientSecretDescription": "Obsah soukromého klíče (.p8 soubor) používaný pro autentizaci s Apple",
+  "enable": "Povolit",
+  "enableDescription": "Po povolení se uživatelé mohou přihlásit pomocí svého Apple ID",
+  "keyId": "ID klíče",
+  "keyIdDescription": "ID vašeho soukromého klíče z Apple Developer Portálu",
+  "redirectUri": "Přesměrovací URL",
+  "redirectUriDescription": "Prosím vyplňte adresu API přesměrované URL po úspěšném ověření pomocí Apple. Nepoužívejte / na konci.",
+  "saveFailed": "Uložení se nezdařilo",
+  "saveSuccess": "Uložení bylo úspěšné",
+  "teamId": "ID týmu",
+  "teamIdDescription": "ID týmu Apple Developer"
+}

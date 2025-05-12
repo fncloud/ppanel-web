@@ -1,0 +1,45 @@
+{
+  "currency": {
+    "accessKey": "密钥",
+    "accessKeyDescription": "https://exchangerate.host 提供免费提供的汇率API密钥",
+    "currencySymbol": "货币符号",
+    "currencySymbolDescription": "仅用于展示使用，更改后系统中所有的货币单位都将发生变更",
+    "currencyUnit": "货币单位",
+    "currencyUnitDescription": "仅用于展示使用，更改后系统中所有的货币单位都将发生变更",
+    "saveSuccess": "保存成功"
+  },
+  "privacy-policy": {
+    "saveSuccess": "保存成功",
+    "title": "隐私政策"
+  },
+  "site": {
+    "customData": "自定义数据",
+    "customDataDescription": "自定义数据，用于网站的自定义数据",
+    "customHtml": "自定义HTML",
+    "customHtmlDescription": "要注入到网站 body 标签底部的自定义 HTML 代码。",
+    "keywords": "关键词",
+    "keywordsDescription": "用于搜索引擎优化",
+    "logo": "LOGO",
+    "logoDescription": "用于显示需要展示 LOGO 的位置",
+    "logoPlaceholder": "请输入 LOGO 的 URL 地址，不要以 '/' 结尾",
+    "saveSuccess": "保存成功",
+    "siteDesc": "站点描述",
+    "siteDescDescription": "用于显示需要展示站点描述的位置",
+    "siteDescPlaceholder": "请输入站点描述",
+    "siteDomain": "站点域名",
+    "siteDomainDescription": "当前网站的域名地址，例如用于电子邮件中",
+    "siteDomainPlaceholder": "请输入域名地址，多个域名请每行一个",
+    "siteName": "站点名称",
+    "siteNameDescription": "用于显示需要展示站点名称的位置",
+    "siteNamePlaceholder": "请输入站点名称"
+  },
+  "tabs": {
+    "currency": "货币",
+    "site": "站点",
+    "tos": "服务条款"
+  },
+  "tos": {
+    "saveSuccess": "保存成功",
+    "title": "服务条款"
+  }
+}
