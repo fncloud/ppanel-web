@@ -1,0 +1,28 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches:
+      - main  # 如果你用的是 main 分支
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'  # 表示部署根目录
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
